@@ -1,0 +1,3977 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: fox\n"
+"POT-Creation-Date: 2023-01-09 00:25+0700\n"
+"PO-Revision-Date: 2023-01-09 00:25+0700\n"
+"Last-Translator: \n"
+"Language-Team: fox\n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:9 land-manager.php:117 search-land.php:147 search-land.php:154
+#: template-parts/content-none.php:18
+msgid "Lỗi"
+msgstr "Error"
+
+#: 404.php:12
+msgid "Không tìm thấy nội dung mà bạn cần tìm kiếm"
+msgstr "Couldn't find what you were looking for"
+
+#: 404.php:14 inc/chucnang.php:438
+msgid "Trở lại"
+msgstr "Back"
+
+#: admin/fox-addcode.php:6
+msgid "FOX CODE"
+msgstr ""
+
+#: admin/fox-addcode.php:9 admin/fox-admin.php:20 admin/fox-adsense.php:9
+#: admin/fox-codex.php:9 admin/fox-comment.php:10 admin/fox-error.php:9
+#: admin/fox-land.php:9 admin/fox-login.php:9 admin/fox-media.php:9
+#: admin/fox-notify.php:10 admin/fox-onchat.php:9 admin/fox-scurity.php:9
+#: admin/fox-shop.php:9 admin/fox-story.php:9
+msgid "Đã lưu cài đặt."
+msgstr "Settings saved."
+
+#: admin/fox-addcode.php:14
+msgid "THÊM CSS"
+msgstr "ADD CSS"
+
+#: admin/fox-addcode.php:15
+msgid "THÊM CODE"
+msgstr "ADD CODE"
+
+#: admin/fox-addcode.php:22
+msgid "Thêm tùy biến css vào website"
+msgstr "Add css customization to website"
+
+#: admin/fox-addcode.php:23
+msgid "Sử dụng hộp nhập bên dưới để thêm tùy biến css vào website của bạn"
+msgstr "Use the input box below to add css customization to your website"
+
+#: admin/fox-addcode.php:29
+msgid "Thêm code vào trị ví Header của website"
+msgstr "Add the code to the website's Header wallet value"
+
+#: admin/fox-addcode.php:30
+msgid "Thêm Script vào trong thẻ"
+msgstr "Add Script inside tag"
+
+#: admin/fox-addcode.php:31 admin/fox-addcode.php:36 admin/fox-addcode.php:41
+#: admin/fox-adsense.php:56 admin/fox-adsense.php:66
+msgid "Thêm code vào đây..."
+msgstr "Add code here..."
+
+#: admin/fox-addcode.php:34
+msgid "Thêm code vào ngay dưới thẻ Body của website"
+msgstr "Add the code just below the Body tag of the website"
+
+#: admin/fox-addcode.php:35
+msgid "Thêm Script vào dưới thẻ"
+msgstr "Add Script under tag"
+
+#: admin/fox-addcode.php:39
+msgid "Thêm code vào trị ví Footer của website"
+msgstr "Add the code to the Footer wallet value of the website"
+
+#: admin/fox-addcode.php:40
+msgid "Thêm Script vào trên thẻ"
+msgstr "Add Script on the card"
+
+#: admin/fox-addcode.php:44 admin/fox-addcode.php:45 admin/fox-admin.php:350
+#: admin/fox-admin.php:351 admin/fox-adsense.php:76 admin/fox-adsense.php:77
+#: admin/fox-codex.php:26 admin/fox-codex.php:27 admin/fox-comment.php:66
+#: admin/fox-comment.php:67 admin/fox-error.php:31 admin/fox-error.php:32
+#: admin/fox-land.php:58 admin/fox-land.php:59 admin/fox-login.php:129
+#: admin/fox-login.php:130 admin/fox-media.php:41 admin/fox-media.php:42
+#: admin/fox-notify.php:60 admin/fox-notify.php:61 admin/fox-onchat.php:32
+#: admin/fox-onchat.php:33 admin/fox-scurity.php:55 admin/fox-scurity.php:56
+#: admin/fox-shop.php:40 admin/fox-shop.php:41 admin/fox-story.php:37
+#: admin/fox-story.php:38
+msgid "LƯU NỘI DUNG"
+msgstr "SAVE CONTENT"
+
+#: admin/fox-admin.php:8
+msgid "CÀI ĐẶT FOX THEME"
+msgstr "SETTING FOX THEME"
+
+#: admin/fox-admin.php:10
+msgid "TỐI ƯU"
+msgstr "OPTIMAL"
+
+#: admin/fox-admin.php:11
+msgid "THỂ LOẠI"
+msgstr "GENRE"
+
+#: admin/fox-admin.php:12
+msgid "CHỨC NĂNG"
+msgstr "FUNCTION"
+
+#: admin/fox-admin.php:13
+msgid "HIỂN THỊ"
+msgstr "DISPLAY"
+
+#: admin/fox-admin.php:14
+msgid "NỘI DUNG"
+msgstr "CONTENT"
+
+#: admin/fox-admin.php:15
+msgid "BẢN QUYỀN"
+msgstr "COPYRIGHT"
+
+#: admin/fox-admin.php:28
+msgid "Cài đặt tối ưu hoá"
+msgstr "Optimization settings"
+
+#: admin/fox-admin.php:31
+msgid "Tối ưu hoá điểm (90 > 100) PageSpeed"
+msgstr "Optimize score (90 > 100) PageSpeed"
+
+#: admin/fox-admin.php:34
+msgid "Bật tính năng tối ưu hoá Fox theme (Beta)"
+msgstr "Enable Fox theme optimization (Beta)"
+
+#: admin/fox-admin.php:38
+msgid ""
+"Nếu bạn muốn sử dụng các plugin tối ưu website vui lòng tắt chức năng này đi "
+"để tránh xung đột lỗi Website."
+msgstr ""
+"If you want to use website optimization plugins, please turn off this "
+"function to avoid website error conflicts."
+
+#: admin/fox-admin.php:42
+msgid "Bật tải ảnh lười biếng"
+msgstr "Turn on lazy photo loading"
+
+#: admin/fox-admin.php:43
+msgid "Tải ảnh lười biếng sẽ giúp tối ưu hoá tốc độ tải trang cho website."
+msgstr ""
+"Lazy loading of images will help optimize the page loading speed for the "
+"website."
+
+#: admin/fox-admin.php:45
+msgid "Bật tải chậm các file js"
+msgstr "Enable slow loading of js files"
+
+#: admin/fox-admin.php:46
+msgid ""
+"Các file js là tài nguyên chặn hiển thị khiến cho trình duyệt phân tích "
+"trang web lâu hơn."
+msgstr ""
+"Files js are render-blocking resources that make the browser take longer to "
+"parse the web page."
+
+#: admin/fox-admin.php:49
+msgid "Bật tải Font Awesome lười biếng"
+msgstr "Enable lazy loading of Font Awesome"
+
+#: admin/fox-admin.php:50
+msgid ""
+"Tải Font Awesome lười biếng sẽ giúp tối ưu hoá tốc độ tải trang cho website "
+"<span style=\"color:#ff4444\">(chức năng này chỉ hoạt động khi bạn bật chức "
+"năng tải chậm file js)</span>."
+msgstr ""
+"Lazy loading of Font Awesome will help optimize page load speed for your "
+"website <span style=\"color:#ff4444\">(this function only works when you "
+"enable slow loading of js files)</span>."
+
+#: admin/fox-admin.php:55
+msgid "Tắt jQuery Migrate"
+msgstr "Disable jQuery Migrate"
+
+#: admin/fox-admin.php:58
+msgid ""
+"jQuery Migrate là một thư viện dùng để duy trì hoạt động của một số theme, "
+"plugin đang sử dụng các mã cũ, nếu website của bạn không còn sử dụng đến thư "
+"viện này thì bạn có thể tắt đi."
+msgstr ""
+"jQuery Migrate is a library used to maintain the operation of some themes "
+"and plugins that are using old codes, if your website no longer uses this "
+"library, you can turn it off."
+
+#: admin/fox-admin.php:66
+msgid "Thể loại website"
+msgstr "Website type"
+
+#: admin/fox-admin.php:68
+msgid "Chọn thể loại web"
+msgstr "Select a web type"
+
+#: admin/fox-admin.php:76
+msgid "Tính năng này cho phép bạn chọn thể loại website mà bạn muốn tạo."
+msgstr ""
+"This feature allows you to select the type of website you want to create."
+
+#: admin/fox-admin.php:82
+msgid " Chức năng"
+msgstr " Function"
+
+#: admin/fox-admin.php:84
+msgid "Chức năng bổ sung cho website"
+msgstr "Additional functionality for the website"
+
+#: admin/fox-admin.php:86
+msgid "Thêm chức năng tạo coupon"
+msgstr "Add coupon creation function"
+
+#: admin/fox-admin.php:87
+msgid ""
+"Nếu bạn kích hoạt chức năng này, trang web của bạn sẽ có thêm mục tạo coupon "
+"giúp cho bạn chia sẻ chương trình liên kết tiếp thị."
+msgstr ""
+"If you enable this function, your website will have an additional coupon "
+"generation section to help you share your affiliate marketing program."
+
+#: admin/fox-admin.php:88
+msgid "Sử dụng widget Fox Coupon để hiển thị các coupon mới nhất ra trang chủ."
+msgstr ""
+"Use the Fox Coupon widget to display the latest coupons on the homepage."
+
+#: admin/fox-admin.php:92
+msgid "Bật thông báo Cookie"
+msgstr "Enable Cookie notifications"
+
+#: admin/fox-admin.php:93
+msgid ""
+"Thông báo Cookie giúp cho website của bạn tuân thủ đầy đủ các quy tắc của "
+"Google khi hoạt động trên môi trường tìm kiếm số."
+msgstr ""
+"The Cookie Notice helps your website fully comply with Google's rules when "
+"operating in a digital search environment."
+
+#: admin/fox-admin.php:96
+msgid "Bật thanh báo cuộn trang"
+msgstr "Enable  the page scrolling alarm bar"
+
+#: admin/fox-admin.php:97
+msgid ""
+"Sẽ có một thanh ở trên cùng cho bạn biết vị trí cuộn trang của trang web."
+msgstr ""
+"There will be a bar at the top that tells you where to scroll the page of "
+"the site."
+
+#: admin/fox-admin.php:100
+msgid "Cấm Copy nội dung trên trang"
+msgstr "Prohibit copying content on the page"
+
+#: admin/fox-admin.php:101
+msgid ""
+"Bật chức năng này nếu bạn muốn người dùng không thể copy nội dung trang web "
+"của bạn."
+msgstr ""
+"Enable this function if you want users to be unable to copy your site's "
+"content."
+
+#: admin/fox-admin.php:105
+msgid "Hiển thị popup bài viết ngẫu nhiên"
+msgstr "Show random article popups"
+
+#: admin/fox-admin.php:120
+msgid ""
+"Sau khi bật sẽ có popup hiển thị danh sách bài viết ngẫu nhiên bên góc màn "
+"hình."
+msgstr ""
+"After turning on, there will be a popup displaying a list of random articles "
+"in the corner of the screen."
+
+#: admin/fox-admin.php:128
+msgid "Chọn vị trí hiển thị popup"
+msgstr "Choose where to display the popup"
+
+#: admin/fox-admin.php:132
+msgid "Chức năng trong bài viết"
+msgstr "Functions in the article"
+
+#: admin/fox-admin.php:134
+msgid "Bật hình đại diện trong bài viết"
+msgstr "Enable avatars in posts"
+
+#: admin/fox-admin.php:135
+msgid ""
+"Nếu bạn kích chọn chức năng này, ở trong bài viết sẽ xuất hiện thêm hình đại "
+"diện."
+msgstr "If you click this function, an avatar will appear in the article."
+
+#: admin/fox-admin.php:137
+msgid "Bật zoom hình ảnh và văn bản"
+msgstr "Enable image and text zoom"
+
+#: admin/fox-admin.php:138
+msgid ""
+"Nếu bạn muốn có thêm chức năng zoom hình ảnh và văn bản trong bài viết hãy "
+"bật chức năng này."
+msgstr ""
+"If you want to have more function to zoom images and text in the article, "
+"please enable this function."
+
+#: admin/fox-admin.php:140
+msgid "Bật mục lục cho bài viết"
+msgstr "Enable the table of contents for the article"
+
+#: admin/fox-admin.php:141
+msgid ""
+"Đây là chức năng tạo mục lục cho bài viết, khi bạn sử dụng các thẻ h trong "
+"bài."
+msgstr ""
+"This is the function to create a table of contents for the article, when you "
+"use h tags in the article."
+
+#: admin/fox-admin.php:143
+msgid "Bật code màu nổi bật"
+msgstr "Enable highlight color code"
+
+#: admin/fox-admin.php:144
+msgid ""
+"Khi bạn chia sẻ code PHP, HTML, CSS trong bài viết, chức năng này sẽ làm "
+"code nổi bật nhờ vào việc thêm màu sắc cho code."
+msgstr ""
+"When you share PHP, HTML, CSS code in the article, this function will make "
+"the code stand out by adding color to the code."
+
+#: admin/fox-admin.php:146
+msgid "Bật thông tin tác giả"
+msgstr "Enable author info"
+
+#: admin/fox-admin.php:147
+msgid ""
+"Nếu bạn kích chọn chức năng này, ở trong bài viết sẽ xuất hiện thêm box "
+"thông tin về tác giả."
+msgstr ""
+"If you click this function, in the article will appear more information box "
+"about the author."
+
+#: admin/fox-admin.php:149
+msgid "Bật trình soạn thảo cổ điển trong bài viết"
+msgstr "Enable the classic editor in the article"
+
+#: admin/fox-admin.php:150
+msgid ""
+"Nếu bạn kích chọn chức năng này, Trình soạn thảo sẽ được thay bằng Editor "
+"Classic."
+msgstr ""
+"If you click this option, the Editor will be replaced with Editor Classic."
+
+#: admin/fox-admin.php:152
+msgid "Bật tính năng thêm download trong bài viết"
+msgstr "Enable the feature of adding downloads in articles"
+
+#: admin/fox-admin.php:153
+msgid ""
+"Nếu bạn kích chọn chức năng này, ở trong trình soạn thảo bài viết sẽ có thêm "
+"box nhập link video youtube và link download."
+msgstr ""
+"If you click this function, in the article editor there will be an "
+"additional box to enter the youtube video link and download link."
+
+#: admin/fox-admin.php:159
+msgid " Cài đặt hiển thị"
+msgstr " Display settings"
+
+#: admin/fox-admin.php:163
+msgid "Kiểu hiển thị menu"
+msgstr "Menu display type"
+
+#: admin/fox-admin.php:171
+msgid "Chọn kiểu hiển thị menu ở trên cho trang web của bạn."
+msgstr "Choose the above menu display style for your website."
+
+#: admin/fox-admin.php:175
+msgid "Kiểu hiển thị bài viết"
+msgstr "Post display style"
+
+#: admin/fox-admin.php:184
+msgid "Tuỳ chọn kiểu hiển thị bài viết ở trang chủ."
+msgstr "Option to display articles on the homepage."
+
+#: admin/fox-admin.php:188
+msgid "Kiểu hiển thị chân trang"
+msgstr "Footer display style"
+
+#: admin/fox-admin.php:196
+msgid "Chọn kiểu hiển thị chân trang cho trang web của bạn."
+msgstr "Choose the footer display style for your website."
+
+#: admin/fox-admin.php:197
+msgid "Thêm html css custom"
+msgstr "Add html css custom"
+
+#: admin/fox-admin.php:200
+msgid ""
+"Nếu bạn muốn sử dụng footer html css tự thiết kế, vui lòng chọn kiểu hiển "
+"thị menu là Custom ở trên, sau đó thêm code của bạn vào ô trên để hiển thị."
+msgstr ""
+"If you want to use self-designed html css footer, please select the menu "
+"display style as Custom above, and then add your code to the above box for "
+"display."
+
+#: admin/fox-admin.php:201
+msgid ""
+"Chú ý: Sử dụng class fix-menu nếu bạn muốn độ rộng tuân theo kích thước giao "
+"diện mặc định."
+msgstr ""
+"Note: Use the fix-menu class if you want the width to follow the default "
+"interface size."
+
+#: admin/fox-admin.php:207
+msgid "Tuỳ chọn hiển thị trang"
+msgstr "Page display options"
+
+#: admin/fox-admin.php:216
+msgid "1 Page: Hiển thị nút chuyển trang dạng số."
+msgstr "1 Page: Displays a numeric paging button."
+
+#: admin/fox-admin.php:217
+msgid "2 More: Hiển thị nút tải thêm bài viết."
+msgstr "2 More: Display the button to load more articles."
+
+#: admin/fox-admin.php:218
+msgid "3 Scroll: Kéo xuống để tải thêm bài viết."
+msgstr "3 Scroll: Scroll down to download more articles."
+
+#: admin/fox-admin.php:219
+msgid ""
+"Chú ý: Tất cả các chức này chỉ hoạt động cho bài viết ở màn hình chính, các "
+"mục khác như bài viết trong chuyên mục vẫn sử dụng tải trang dạng số nhằm "
+"giúp người xem tìm kiếm bài viết hiệu quả hơn."
+msgstr ""
+"Note: All of these functions only work for articles on the home screen, "
+"while other categories such as category articles still use digital page "
+"loads to help viewers search for articles more efficiently."
+
+#: admin/fox-admin.php:223
+msgid "Tùy chọn font chữ"
+msgstr "Font options"
+
+#: admin/fox-admin.php:231
+msgid "Chọn kiểu font chữ cho trang web của bạn."
+msgstr "Choose a font style for your website."
+
+#: admin/fox-admin.php:234
+msgid "Hiển thị tìm kiếm"
+msgstr "Show search"
+
+#: admin/fox-admin.php:243
+msgid "Chọn kiểu hiển thị tìm kiếm ở thanh bar"
+msgstr "Choose how to display a search in the bar"
+
+#: admin/fox-admin.php:245 admin/fox-admin.php:248
+msgid "Kích thước hiển thị"
+msgstr "Display Size"
+
+#: admin/fox-admin.php:249
+msgid ""
+"Nhập kích thước hiển thị chiều rộng của trang web (mặc định 1300px).<br>\n"
+"                    <b>Chú ý:</b> nhập kích thước phải lớn hơn 800px và nhỏ "
+"hơn 2300px nếu kích thước của bạn không đạt chỉ tiêu này thì kích thước sẽ "
+"tự động về lại 1300px."
+msgstr ""
+"Enter the display width of the web page (default 1300px).<br>\n"
+"                    <b>Note:</b> enter the size must be greater than 800px "
+"and less than 2300px if your size does not meet this criterion, the size "
+"will automatically return to 1300px."
+
+#: admin/fox-admin.php:255 admin/fox-admin.php:257
+msgid "Bật chế độ Darkmode"
+msgstr "Enable Darkmode"
+
+#: admin/fox-admin.php:267
+msgid ""
+"Nếu bạn muốn website của mình có thêm chế độ Darkmode thì hãy bật lên, chế "
+"độ này giúp người đọc đỡ đau mắt khi xem màn hình ở nơi thiếu sáng."
+msgstr ""
+"If you want your website to have a Darkmode mode, turn it on, this mode "
+"helps readers to reduce eye pain when viewing the screen in low light."
+
+#: admin/fox-admin.php:271
+msgid "Tắt sidebar"
+msgstr "Turn off sidebar"
+
+#: admin/fox-admin.php:273
+msgid "Tắt sidebar ở trang chủ"
+msgstr "Turn off the sidebar on the home page"
+
+#: admin/fox-admin.php:274
+msgid ""
+"Nếu bạn không muốn hiển thị sidebar ở trang chủ, chuyên mục, tìm kiếm, lưu "
+"trữ... có thể tích chọn để tắt đi."
+msgstr ""
+"If you do not want to display the sidebar on the homepage, categories, "
+"search, archive ... have volume selected to turn off."
+
+#: admin/fox-admin.php:277
+msgid "Tắt sidebar ở bài viết"
+msgstr "Turn off sidebar in articles"
+
+#: admin/fox-admin.php:278
+msgid ""
+"Nếu bạn không muốn hiển thị sidebar ở bài viết, sản phẩm... có thể tích chọn "
+"để tắt đi."
+msgstr ""
+"If you don't want to display the sidebar in the article, product... have "
+"volume selected to turn off."
+
+#: admin/fox-admin.php:281
+msgid "Tắt sidebar ở trang"
+msgstr "Turn off the sidebar on the page"
+
+#: admin/fox-admin.php:282
+msgid ""
+"Nếu bạn không muốn hiển thị sidebar ở trang, có thể tích chọn để tắt đi."
+msgstr ""
+"If you don't want to display the sidebar on the page, you can choose to turn "
+"it off."
+
+#: admin/fox-admin.php:287
+msgid "Hiệu ứng đẹp mắt thêm vào website"
+msgstr "Beautiful effects added to the website"
+
+#: admin/fox-admin.php:295
+msgid ""
+"Chọn hiệu ứng thêm vào trang web của bạn vào những dịp lể kỹ niệm đặc biệt "
+"(ví dụ: Noel)."
+msgstr ""
+"Choose effects to add to your website for special occasions (e.g. Christmas)."
+
+#: admin/fox-admin.php:304
+msgid "Thêm nội dung"
+msgstr "More content"
+
+#: admin/fox-admin.php:307
+msgid "Biểu tượng mạng xã hội ở menu"
+msgstr "Social network icon in menu"
+
+#: admin/fox-admin.php:317
+msgid "là id Facebook của bạn"
+msgstr "is your Facebook id"
+
+#: admin/fox-admin.php:318
+msgid "là id Twitter của bạn"
+msgstr "is your Twitter id"
+
+#: admin/fox-admin.php:319
+msgid "là id Pinterest của bạn"
+msgstr "is your Pinterest id"
+
+#: admin/fox-admin.php:320
+msgid "là id Youtube của bạn"
+msgstr "is your Youtube id"
+
+#: admin/fox-admin.php:321
+msgid "là id Tiktok của bạn"
+msgstr "is your Tiktok id"
+
+#: admin/fox-admin.php:322
+msgid "là id  Instagram"
+msgstr "is the Instagram id"
+
+#: admin/fox-admin.php:324
+msgid "Thêm liên kết của bạn vào biểu tượng mạng xã hội ở menu."
+msgstr "Add your link to the social media icon in the menu."
+
+#: admin/fox-admin.php:327
+msgid "Nội dung thẻ H1 ở trang chủ"
+msgstr "Contents of the H1 tag on the homepage"
+
+#: admin/fox-admin.php:328
+msgid "Nhập H1 của bạn vào"
+msgstr "Enter your H1 in"
+
+#: admin/fox-admin.php:329
+msgid ""
+"Tính năng này giúp website của bạn có thẻ H1 ở trang chủ rất tốt cho Seo."
+msgstr ""
+"This feature helps your website have an H1 tag on the homepage which is very "
+"good for SEO."
+
+#: admin/fox-admin.php:331
+msgid "Bản quyền dưới chân trang"
+msgstr "Copyright in the footer"
+
+#: admin/fox-admin.php:333
+msgid "Dòng chữ bản quyền phía dưới cùng của trang web."
+msgstr "Copyright text at the bottom of the web page."
+
+#: admin/fox-admin.php:341
+msgid "Bản quyền kỹ thuật số"
+msgstr "Digital Copyright"
+
+#: admin/fox-admin.php:345
+msgid "Nhập key bản quyền"
+msgstr "Enter the license key"
+
+#: admin/fox-adsense.php:6
+msgid "FOX ADSENSE"
+msgstr ""
+
+#: admin/fox-adsense.php:14
+msgid "THÊM"
+msgstr "ADD"
+
+#: admin/fox-adsense.php:15
+msgid "VỊ TRÍ"
+msgstr "LOCATION"
+
+#: admin/fox-adsense.php:23
+msgid "Bật quảng cáo Adsense trên Website"
+msgstr "Enable Adsense ads on Website"
+
+#: admin/fox-adsense.php:24
+msgid ""
+"Nếu bạn bật lên, thì code Adsense sẽ được gắn vào trang web của bạn, ngược "
+"lại tắt đi, thì toàn bộ code Adsense sẽ không còn hoạt động trên trang web "
+"nữa."
+msgstr ""
+"If you turn it on, the Adsense code will be attached to your website, "
+"otherwise turn it off, then the entire Adsense code will no longer work on "
+"the website."
+
+#: admin/fox-adsense.php:27
+msgid "Bật Adsense"
+msgstr "Enable Adsense"
+
+#: admin/fox-adsense.php:29
+msgid "Thêm Adsense vào website"
+msgstr "Add Adsense to website"
+
+#: admin/fox-adsense.php:31
+msgid ""
+"Nhập ID Adsense vào ô bên dưới lấy nó ở <b>Cài đặt > Thông tin tài khoản</b> "
+"của trình quản lý Adsense."
+msgstr ""
+"Enter Adsense ID in the box below get it in <b>Settings>Account Information</"
+"b> of Adsense manager."
+
+#: admin/fox-adsense.php:37
+msgid "Thêm quảng cáo trong cố định trong bài viết"
+msgstr "Add ads in a fixed in-article"
+
+#: admin/fox-adsense.php:39 admin/fox-adsense.php:57 admin/fox-adsense.php:67
+msgid ""
+"Code này bạn có thể lấy nó trong phần <b>Quảng cáo > Tổng quan > Theo đơn vị "
+"quảng cáo > Tùy chọn loại quảng cáo muốn hiển thị</b> của trình quản lý "
+"Adsense."
+msgstr ""
+"This code you can get it in the <b>Ads> Overview> By ad unit> Options for "
+"the type of ads you want to display</b> of the Adsense manager."
+
+#: admin/fox-adsense.php:41
+msgid "Hiển thị trên cùng"
+msgstr "Show top"
+
+#: admin/fox-adsense.php:44
+msgid "Hiển thị dưới cùng"
+msgstr "Show bottom"
+
+#: admin/fox-adsense.php:47
+msgid "Thêm quảng cáo Adsense vào vị trí tự động trong bài viết"
+msgstr "Add Adsense ads to automatic placement in articles"
+
+#: admin/fox-adsense.php:48
+msgid "Số dòng"
+msgstr "Line number"
+
+#: admin/fox-adsense.php:50
+msgid ""
+"Số dòng khi gặp thẻ đó là hiển thị quảng cáo (mặc định là dòng số 2 thẻ đóng "
+"p)."
+msgstr ""
+"The number of lines when encountering that tag is to display ads (default is "
+"line number 2 with closing tag p)."
+
+#: admin/fox-adsense.php:52
+msgid "Hiển thị vị trí tự động trong bài viết"
+msgstr "Auto position display in posts"
+
+#: admin/fox-adsense.php:55
+msgid "Thêm quảng cáo Adsense vào Widget"
+msgstr "Add Adsense Ads to Widget"
+
+#: admin/fox-adsense.php:59
+msgid "Hiển thị giữa trang"
+msgstr "Display in the middle of the page"
+
+#: admin/fox-adsense.php:62
+msgid "Hiển thị thanh bên"
+msgstr "Show sidebar"
+
+#: admin/fox-adsense.php:65
+msgid "Thêm quảng cáo Adsense vào 2 bên max rộng"
+msgstr "Add Adsense ads on both sides max wide"
+
+#: admin/fox-adsense.php:69
+msgid "Hiển thị bên phải"
+msgstr "Show on the right"
+
+#: admin/fox-adsense.php:72
+msgid "Hiển thị bên trái"
+msgstr "Show on the left"
+
+#: admin/fox-codex.php:6
+msgid "FOX CODEX"
+msgstr ""
+
+#: admin/fox-codex.php:16
+msgid "Cài đặt Codex"
+msgstr "Codex setting"
+
+#: admin/fox-codex.php:19
+msgid ""
+"Nếu bạn kích hoạt chức năng này những bài viết Codex sẽ hiển thị ở trang chủ."
+msgstr ""
+"If you enable this function, Codex articles will be displayed on the "
+"homepage."
+
+#: admin/fox-codex.php:23
+msgid "Bật hiển thị Codex"
+msgstr "Enable Codex display"
+
+#: admin/fox-comment.php:7
+msgid "FOX COMMENT"
+msgstr ""
+
+#: admin/fox-comment.php:15
+msgid "MẶC ĐỊNH"
+msgstr "DEFAULT"
+
+#: admin/fox-comment.php:16
+msgid "FACEBOOK"
+msgstr ""
+
+#: admin/fox-comment.php:24
+msgid "Chức năng bình luận mặc định"
+msgstr "Default comment function"
+
+#: admin/fox-comment.php:25
+msgid "Bật chức năng hiển thị bình luận mặc định cho Foxtheme."
+msgstr "Enable default comment display for Foxtheme."
+
+#: admin/fox-comment.php:28
+msgid "Bật bình luận mặc định"
+msgstr "Enable default comments"
+
+#: admin/fox-comment.php:30
+msgid "Cấu hình chức năng thông báo"
+msgstr "Configure notification function"
+
+#: admin/fox-comment.php:32
+msgid "Bật thông báo khi có trả lời bình luận"
+msgstr "Turn on notifications when replying to comments"
+
+#: admin/fox-comment.php:33
+msgid ""
+"Bật lên nếu bạn muốn thông báo đến email người dùng khi bình luận của họ có "
+"người trả lời."
+msgstr ""
+"Turn it on if you want to notify users by email when their comment is "
+"answered."
+
+#: admin/fox-comment.php:34
+msgid "Cấu hình chức năng hiển thị"
+msgstr "Configuring display function"
+
+#: admin/fox-comment.php:36
+msgid "Bật hiển thị biểu tượng phân biệt admin hoặc người dùng"
+msgstr "Enable display of icons that distinguish admin or user"
+
+#: admin/fox-comment.php:37
+msgid ""
+"Nếu bạn bật chức năng này, sẽ có biểu tượng hoặc văn bản hiển thị sau tên "
+"tác giả bình luận thể hiện vai trò của họ."
+msgstr ""
+"If you enable this, there will be an icon or text displayed after the "
+"comment author's name representing their role."
+
+#: admin/fox-comment.php:38
+msgid "Văn bản hoặc biểu tượng dành cho admin"
+msgstr "Text or icon for admin"
+
+#: admin/fox-comment.php:43
+msgid "Văn bản hoặc biểu tượng dành cho người dùng"
+msgstr "User Text or Icons"
+
+#: admin/fox-comment.php:52
+msgid "Thêm bình luận Facebook vào website"
+msgstr "Add Facebook comments to the website"
+
+#: admin/fox-comment.php:53
+msgid ""
+"Bật chức năng này và điền đầy đủ các thông tin bên dưới để cấu hình thêm "
+"bình luận Facebook vào website của bạn."
+msgstr ""
+"Enable this function and complete the information below to configure adding "
+"Facebook comments to your website."
+
+#: admin/fox-comment.php:56
+msgid "Bật bình luận Facebook"
+msgstr "Turn on Facebook comments"
+
+#: admin/fox-comment.php:58
+msgid "Cấu hình"
+msgstr "Configuration"
+
+#: admin/fox-comment.php:59
+msgid "Nhập ID ứng dụng"
+msgstr "Enter App ID"
+
+#: admin/fox-comment.php:60
+msgid "Bạn cần thêm ID ứng dụng Facebook vào ô bên trên."
+msgstr "You need to add the Facebook App ID in the box above."
+
+#: admin/fox-comment.php:62
+msgid "Nhập số lượng bình luận hiển thị vào ô trên."
+msgstr "Enter the number of comments shown in the box above."
+
+#: admin/fox-error.php:6
+msgid "FOX ERROR"
+msgstr ""
+
+#: admin/fox-error.php:15
+msgid "Thông báo lỗi bài viết hoặc chương truyện về Telegram"
+msgstr "Report error messages or stories about Telegram"
+
+#: admin/fox-error.php:17
+msgid ""
+"Sau khi bạn bật Fox Error, trang web của bạn sẽ có thêm phần thông báo lỗi ở "
+"bài viết và chương truyện \"thông báo này sẽ được gửi tới nhóm Telegram của "
+"bạn\"."
+msgstr ""
+"After you enable Fox Error, your website will have an additional error "
+"message in the article and story chapter \"this message will be sent to your "
+"Telegram group\"."
+
+#: admin/fox-error.php:21
+msgid "Bật thông báo Telegram"
+msgstr "Enable Telegram notifications"
+
+#: admin/fox-error.php:24
+msgid "Nhập thông tin API Telegram vào ô bên dưới"
+msgstr "Enter Telegram API information in the box below"
+
+#: admin/fox-land.php:6
+msgid "FOX LAND"
+msgstr ""
+
+#: admin/fox-land.php:16
+msgid "Chọn bộ lọc hiển thị"
+msgstr "Select display filter"
+
+#: admin/fox-land.php:18
+msgid "Lọc vị trí"
+msgstr "Filter location"
+
+#: admin/fox-land.php:21
+msgid "Lọc phân loại"
+msgstr "Filter type"
+
+#: admin/fox-land.php:24
+msgid "Lọc thông tin"
+msgstr "Filter information"
+
+#: admin/fox-land.php:27
+msgid "Lọc diện tích"
+msgstr "Filter area"
+
+#: admin/fox-land.php:30
+msgid "Lọc giá"
+msgstr "Filter prices"
+
+#: admin/fox-land.php:32
+msgid "Chọn bộ lọc hiển thị ở trang và widget."
+msgstr "Select display filters on pages and widgets."
+
+#: admin/fox-land.php:34
+msgid "Giao bộ lọc tìm kiếm"
+msgstr "Assign search filter"
+
+#: admin/fox-land.php:42
+msgid "Chọn kiểu hiển thị bộ lọc tìm kiếm."
+msgstr "Select the search filter display type."
+
+#: admin/fox-land.php:46
+msgid "Thành viên đăng tin"
+msgstr "Members post news"
+
+#: admin/fox-land.php:48
+msgid "Cho phép thành viên đăng"
+msgstr "Allow members to post"
+
+#: admin/fox-land.php:49
+msgid ""
+"Tùy chọn này thêm chức năng cho phép thành viên đăng ký có thể đăng tin."
+msgstr ""
+"This option adds a function that allows registered members to post messages."
+
+#: admin/fox-land.php:53
+msgid "Cài đặt đăng tin"
+msgstr "Posting settings"
+
+#: admin/fox-land.php:55
+msgid "Sử dụng liên hệ hồ sơ"
+msgstr "Use contact profile"
+
+#: admin/fox-land.php:56
+msgid ""
+"Nếu chọn chức năng này, trường liên hệ ở tin sẻ được lấy từ hồ sơ người dùng "
+"thay cho việc nhập tin."
+msgstr ""
+"If this function is selected, the contact field in the story will be taken "
+"from the user's profile instead of entering the story."
+
+#: admin/fox-login.php:6
+msgid "FOX LOGIN"
+msgstr ""
+
+#: admin/fox-login.php:14
+msgid "CÀI ĐẶT"
+msgstr "SETTING"
+
+#: admin/fox-login.php:15
+msgid "EMAIL"
+msgstr ""
+
+#: admin/fox-login.php:16
+msgid "SMTP"
+msgstr ""
+
+#: admin/fox-login.php:24
+msgid "Chức năng tạo trang đăng nhập & đăng ký cho Website"
+msgstr "Function to create login & registration page for Website"
+
+#: admin/fox-login.php:26
+msgid ""
+"Sau khi bạn bật Fox Login, trang web của bạn sẽ có thêm phần đăng nhập, đăng "
+"ký, quản lý thông tin thành viên."
+msgstr ""
+"After you enable Fox Login, your website will have more login, registration, "
+"and member information management."
+
+#: admin/fox-login.php:30
+msgid "Bật Login"
+msgstr "Enable Login"
+
+#: admin/fox-login.php:35
+msgid "Thêm Google Captcha vào đăng ký"
+msgstr "Add Google Captcha to your subscription"
+
+#: admin/fox-login.php:37
+msgid "Bật Google Captcha"
+msgstr "Enable Google Captcha"
+
+#: admin/fox-login.php:40
+msgid "Google Captcha v2.0 sẽ được thêm vào form đăng ký."
+msgstr "Google Captcha v2.0 will be added to the registration form."
+
+#: admin/fox-login.php:44
+msgid "Thêm đăng nhập & đăng ký bằng mạng xã hội"
+msgstr "Add login & social registration"
+
+#: admin/fox-login.php:46
+msgid "Bật icon đăng nhập bằng mạng xã hội"
+msgstr "Enable social media login icon"
+
+#: admin/fox-login.php:49
+msgid ""
+"Truy cập vào <b>Plugin > Cài mới</b> tìm kiếm plugin <b>Super Socializer</b> "
+"và cài đặt.\n"
+"                <p>1. Vào plugin <b>Super Socializer > Social login ></b> "
+"tích chọn <b>Enable Social Login</b></p>\n"
+"                <p>2. Tích chọn mạng xã hội muốn tạo đăng nhập.</p>\n"
+"                <p>3. Điền API login của ứng dụng mạng xã hội vào rồi lưu "
+"lại.</p>"
+msgstr ""
+"Go to <b>Plugin> New Install</b> search for <b>Super Socializer</b> plugin "
+"and install it.\n"
+"                <p>1. Go to plugin <b>Super Socializer> Social login ></b> "
+"tick <b>Enable Social Login</b></p>\n"
+"                <p>2. Check the social network you want to create a login.</"
+"p>\n"
+"                <p>3. Enter the login API of the social network application "
+"and save it.</p>"
+
+#: admin/fox-login.php:57
+msgid "Chức năng khóa bài viết hoặc chương truyện"
+msgstr "Function to lock articles or story chapters"
+
+#: admin/fox-login.php:59
+msgid "Bật chức năng khoá bài viết"
+msgstr "Turn on the post locking function"
+
+#: admin/fox-login.php:62
+msgid ""
+"Khi bạn bật chức năng này, trình soạn thảo bài viết sẽ có thêm tuỳ chọn khoá "
+"( và shortcode khóa mới có thể hoạt động)."
+msgstr ""
+"When you enable this function, the post editor will have an additional "
+"locking option (and the new key shortcode may work)."
+
+#: admin/fox-login.php:65
+msgid "Nhập nội dung hiển thị cho VIP vào đây"
+msgstr "Enter the content displayed for VIP here"
+
+#: admin/fox-login.php:66
+msgid ""
+"Khi bạn sử dụng khoá VIP thì nội dung này sẽ hiển thị khi người dùng truy "
+"cập bài viết."
+msgstr ""
+"When you use the VIP key, this content will be displayed when the user "
+"accesses the article."
+
+#: admin/fox-login.php:67
+msgid "Nhập nội dung hiển thị cho đăng nhập vào đây"
+msgstr "Enter the content displayed for login here"
+
+#: admin/fox-login.php:68
+msgid ""
+"Khi bạn sử dụng khoá đăng nhập thì nội dung này sẽ hiển thị khi người dùng "
+"truy cập bài viết."
+msgstr ""
+"When you use the login key, this content will be displayed when the user "
+"visits the post."
+
+#: admin/fox-login.php:69
+msgid "Nhập nội dung hiển thị cho mật khẩu vào đây"
+msgstr "Enter the display text for the password here"
+
+#: admin/fox-login.php:70
+msgid ""
+"Khi bạn sử dụng khoá mật khẩu thì nội dung này sẽ hiển thị khi người dùng "
+"truy cập bài viết."
+msgstr ""
+"When you use a password key, this content will be displayed when the user "
+"accesses the post."
+
+#: admin/fox-login.php:77
+msgid "Cài đặt nội dung email gửi tới sau khi người dùng đăng ký"
+msgstr "Set the content of the email sent to the user after registration"
+
+#: admin/fox-login.php:79
+msgid "Bật gửi email cho người dùng sau khi đăng ký tài khoản"
+msgstr "Enable emailing of users after account registration"
+
+#: admin/fox-login.php:81
+msgid ""
+"Nếu bạn bật chức năng này lên, sau đó điền đầy đủ thông tin bên dưới, sau "
+"khi người dùng đăng ký tài khoản sẽ có email thông báo cho người dùng tương "
+"ứng với nội dung mà bạn đã thêm vào."
+msgstr ""
+"If you enable this function, then fill in the information below, after the "
+"user registers an account, there will be an email notification to the user "
+"corresponding to the content you have added."
+
+#: admin/fox-login.php:82
+msgid "Tiêu đề email"
+msgstr "Email subject"
+
+#: admin/fox-login.php:83
+msgid "Nội dung email..."
+msgstr "Email content..."
+
+#: admin/fox-login.php:84
+msgid ""
+"Đây là nội dung của email mà người dùng sau khi đăng ký thành công sẽ nhận "
+"được, để hoạt động website của bạn cần cấu hình mail SMTP trước."
+msgstr ""
+"This is the content of the email that users will receive after successful "
+"registration, to work your website needs to configure SMTP mail first."
+
+#: admin/fox-login.php:90
+msgid "Cấu hình Gmail SMTP"
+msgstr "Gmail SMTP Configuration"
+
+#: admin/fox-login.php:93
+msgid ""
+"Kích hoạt chức năng này và nhập nội dung cấu hình bên dưới để có thể nhận "
+"thông báo về tài khoản email của bạn thông qua Gmail SMTP."
+msgstr ""
+"Enable this function and enter the configuration below to be able to receive "
+"notifications about your email account via Gmail SMTP."
+
+#: admin/fox-login.php:97
+msgid "Bật Gmail SMTP"
+msgstr "Enable Gmail SMTP"
+
+#: admin/fox-login.php:100 admin/fox-login.php:101
+msgid "Tên người gửi"
+msgstr "Sender's name"
+
+#: admin/fox-login.php:103 admin/fox-login.php:104 register.php:100
+msgid "Địa chỉ email"
+msgstr "Email address"
+
+#: admin/fox-login.php:106 admin/fox-login.php:107
+msgid "Tài khoản"
+msgstr "Account"
+
+#: admin/fox-login.php:109 admin/fox-login.php:110
+msgid "Mật khẩu ứng dụng"
+msgstr "App password"
+
+#: admin/fox-login.php:112
+msgid "Máy chủ SMTP"
+msgstr "SMTP server"
+
+#: admin/fox-login.php:115
+msgid "Cổng SMTP"
+msgstr "SMTP port"
+
+#: admin/fox-login.php:118
+msgid "Giao thức SMTP"
+msgstr "SMTP protocol"
+
+#: admin/fox-media.php:6
+msgid "FOX MEDIA"
+msgstr ""
+
+#: admin/fox-media.php:15
+msgid "Tùy chọn chức năng media của theme"
+msgstr "Theme media function options"
+
+#: admin/fox-media.php:18
+msgid "Bật chặn cắt hình ảnh khi tải lên"
+msgstr "Enable image cropping when uploading"
+
+#: admin/fox-media.php:19
+msgid ""
+"Fox theme chỉ sử dụng một định dạng hình ảnh (góc) để hiển thị, bạn có thể "
+"bật chức năng này lên nếu muốn hình ảnh tải lên không bị cắt thành nhiều "
+"kích thước thu nhỏ."
+msgstr ""
+"Fox theme only uses one image format (angle) to display, you can enable this "
+"function if you want the uploaded image not to be cut into multiple "
+"thumbnail sizes."
+
+#: admin/fox-media.php:22
+msgid "Giới hạn kích thước file tải lên"
+msgstr "Upload file size limit"
+
+#: admin/fox-media.php:26
+msgid "KB"
+msgstr ""
+
+#: admin/fox-media.php:27
+msgid ""
+"Bạn có thể giới hạn kích thước file tải lên bằng cách bật và gõ kích thước "
+"giới hạn vào ô bên trên."
+msgstr ""
+"You can limit the file upload size by enabling and typing limit size in the "
+"box above."
+
+#: admin/fox-media.php:30
+msgid "Bật xóa bài viết xóa luôn hình ảnh"
+msgstr "Turn on delete posts and delete images"
+
+#: admin/fox-media.php:31
+msgid ""
+"Chức năng này cho phép bạn xóa bài viết thì hình ảnh đính kèm trong bài viết "
+"cũng bị xóa luôn (chú ý nếu các bài viết có dùng chung một hình ảnh cũng sẽ "
+"bị mất hình khi xóa)."
+msgstr ""
+"This function allows you to delete the article, the image attached to the "
+"article will also be deleted (note that if the articles share the same "
+"image, the image will also be lost when deleted)."
+
+#: admin/fox-media.php:34
+msgid "Căn giữa tất cả hình ảnh trong bài viết"
+msgstr "Center all images in the post"
+
+#: admin/fox-media.php:35
+msgid "Tất cả hình ảnh trong bài viết sẽ được căn giữa."
+msgstr "All images in the post will be centered."
+
+#: admin/fox-note.php:5
+msgid "FOX NOTE"
+msgstr ""
+
+#: admin/fox-note.php:8
+msgid "CODE"
+msgstr ""
+
+#: admin/fox-note.php:9
+msgid "WIDGET"
+msgstr ""
+
+#: admin/fox-note.php:10
+msgid "DOC"
+msgstr ""
+
+#: admin/fox-note.php:15
+msgid "Shortcode làm đẹp cho bài viết"
+msgstr "Shortcode to beautify the article"
+
+#: admin/fox-note.php:17
+msgid "nội dung"
+msgstr "content"
+
+#: admin/fox-note.php:17
+msgid "ghi chú trong bài viết của bạn."
+msgstr "Notes in your post."
+
+#: admin/fox-note.php:20
+msgid "Shortcode nút tải về trong bài viết"
+msgstr "Shortcode download button in the article"
+
+#: admin/fox-note.php:23 admin/fox-note.php:26 admin/fox-note.php:29
+#: admin/fox-note.php:32 admin/fox-note.php:35 admin/fox-note.php:38
+#: admin/fox-note.php:40
+msgid "link tải"
+msgstr "download link"
+
+#: admin/fox-note.php:23
+msgid "nút tải theo kiểu Windows."
+msgstr "Windows-style download button."
+
+#: admin/fox-note.php:26
+msgid "nút tải theo kiểu Linux."
+msgstr "Linux-style download button."
+
+#: admin/fox-note.php:29
+msgid "nút tải theo kiểu Macos."
+msgstr "Macs style download button."
+
+#: admin/fox-note.php:32
+msgid "nút tải theo kiểu Ios."
+msgstr "Ios style load button."
+
+#: admin/fox-note.php:35
+msgid "nút tải theo kiểu Android."
+msgstr "Android styled download button."
+
+#: admin/fox-note.php:38
+msgid "nút tải theo kiểu Wordpress."
+msgstr "Wordpress styled load button."
+
+#: admin/fox-note.php:40
+msgid "nút tải chung."
+msgstr "general download button."
+
+#: admin/fox-note.php:42
+msgid ""
+"Chú ý: Các shortcode tải này đều đã được tạo trang chuyển hướng và mã hoá "
+"liên kết"
+msgstr "Note: These loading shortcodes are all redirected and link encoded"
+
+#: admin/fox-note.php:44
+msgid "Shortcode khóa nội dung trong bài viết"
+msgstr "Shortcode locks the content in the article"
+
+#: admin/fox-note.php:47 admin/fox-note.php:50 admin/fox-note.php:52
+msgid "Nội dung cần khóa"
+msgstr "Content to be locked"
+
+#: admin/fox-note.php:47
+msgid "nội dung này được mở khóa khi người dùng đăng nhập."
+msgstr "This content is unlocked when the user is logged in."
+
+#: admin/fox-note.php:50
+msgid ""
+"nội dung này được mở khóa khi người dùng thuộc (nhóm vip, đã thêm id bài "
+"viết đó vào tài khoản, còn thời gian VIP)."
+msgstr ""
+"this content is unlocked when the user belongs to (vip group, added that "
+"post id to the account, VIP time left)."
+
+#: admin/fox-note.php:52 inc/login.php:313 inc/metabox-download.php:83
+#: login.php:66 new-password.php:59 profile.php:169 register.php:105
+msgid "Mật khẩu"
+msgstr "Password"
+
+#: admin/fox-note.php:52
+msgid "nội dung này được mở khóa khi người dùng nhập đúng mật khẩu."
+msgstr "This content is unlocked when the user enters the correct password."
+
+#: admin/fox-note.php:55
+msgid ""
+"Chú ý: Các shortcode này chỉ hoạt động khi bạn đã kích hoạt FOX LOGIN và bật "
+"chức năng khóa bài viết hoặc chương truyện"
+msgstr ""
+"Note: These shortcodes only work when you have enabled FOX LOGIN and enabled "
+"locking of posts or chapters."
+
+#: admin/fox-note.php:62
+msgid "Tổng hợp các Widget của Fox theme"
+msgstr "Collection of Widgets of Fox theme"
+
+#: admin/fox-note.php:63
+msgid "Widget chung"
+msgstr "General Widgets"
+
+#: admin/fox-note.php:66
+msgid "Hiển thị các bài viết theo chuyên mục dạng danh sách hoặc lưới"
+msgstr "Display posts by category as a list or grid"
+
+#: admin/fox-note.php:66 admin/fox-note.php:75 admin/fox-note.php:102
+#: admin/fox-note.php:105 admin/fox-note.php:111 admin/fox-note.php:117
+#: admin/fox-note.php:120 admin/fox-note.php:123 admin/fox-note.php:131
+msgid "ở giữa"
+msgstr "between"
+
+#: admin/fox-note.php:69
+msgid "Hiển thị các bình luận gần đây"
+msgstr "Show recent comments"
+
+#: admin/fox-note.php:72
+msgid "Hiển thị hộp thời thiết"
+msgstr "Show weatherbox"
+
+#: admin/fox-note.php:75
+msgid "Hiển thị các bài viết ngẫu nhiên dạng slide"
+msgstr "Display random articles as slides"
+
+#: admin/fox-note.php:78
+msgid "Hiển thị các chuyên mục dạng text"
+msgstr "Display categories as text"
+
+#: admin/fox-note.php:81
+msgid "Hiển thị hộp thời gian và ngày tháng"
+msgstr "Time and date box display"
+
+#: admin/fox-note.php:84
+msgid "Hiển thị hộp thông báo về thị trường coin"
+msgstr "Display message box about coin market"
+
+#: admin/fox-note.php:87
+msgid "Hiển thị hộp âm lịch"
+msgstr "Show lunar box"
+
+#: admin/fox-note.php:90
+msgid "hiển thị tất cả các thẻ tag"
+msgstr "show all tags"
+
+#: admin/fox-note.php:93
+msgid "Hiển thị hộp nhập tìm kiếm bài viết"
+msgstr "Show post search input box"
+
+#: admin/fox-note.php:96 widget/widget.php:562
+msgid "Hiển thị bài viết có nhiều lượt xem"
+msgstr "Show posts with many views"
+
+#: admin/fox-note.php:99
+msgid "Hiển thị bài viết lượt xem / ngẫu nhiên / nổi bật"
+msgstr "Show posts views / random / featured"
+
+#: admin/fox-note.php:102
+msgid "Hiển thị bài viết dạng banner"
+msgstr "Display posts as banners"
+
+#: admin/fox-note.php:105
+msgid "Hiển thị bài viết theo chuyên mục dạng kéo qua lại"
+msgstr "Display posts by category scrolling back and forth"
+
+#: admin/fox-note.php:108
+msgid "Hiển thị hộp tính khoản vay"
+msgstr "Show loan calculation box"
+
+#: admin/fox-note.php:111
+msgid "Hiển thị bài viết dạng lưới thường sử dụng trên cùng"
+msgstr "Show frequently used grid posts on top"
+
+#: admin/fox-note.php:114
+msgid "Hiển thị hộp chuyển đổi tiền tệ"
+msgstr "Show currency converter box"
+
+#: admin/fox-note.php:117
+msgid ""
+"Hiển thị bài viết theo chuyên mục tương tự bài viết trang chủ kèm phân trang"
+msgstr "Display posts by category similar to home page posts with pagination"
+
+#: admin/fox-note.php:120
+msgid "Hiển thị bài viết theo chuyên mục có thể thay đổi màu sắc của phong nền"
+msgstr ""
+"Displaying posts by category can change the color of the background style"
+
+#: admin/fox-note.php:123
+msgid ""
+"Hiển thị bài viết theo chuyên mục có thể thay đổi màu sắc đường viền và liên "
+"kết"
+msgstr "Show articles by category with changeable border and link colors"
+
+#: admin/fox-note.php:126
+msgid "Hiển thị hộp lịch"
+msgstr "Show calendar box"
+
+#: admin/fox-note.php:129
+msgid "Hiển thị bài viết theo chuyên mục với kiểu đường viền tinh tế"
+msgstr "Display posts by category with subtle border style"
+
+#: admin/fox-note.php:131
+msgid "Hiển thị chi tiết thông tin tài khoản theo ID"
+msgstr "Show account details by ID"
+
+#: admin/fox-note.php:133
+msgid "Widget Land"
+msgstr "Widget Land"
+
+#: admin/fox-note.php:135
+msgid "Hiển thị bộ lọc tìm kiếm bất động sản"
+msgstr "Show real estate search filter"
+
+#: admin/fox-note.php:137
+msgid "Shortcode này chỉ hiển thị khi bạn lựa chọn thể loại web là land"
+msgstr ""
+"This shortcode is only displayed when you select the web category as land"
+
+#: admin/fox-note.php:138
+msgid "Widget Coupon"
+msgstr "Coupon Widget"
+
+#: admin/fox-note.php:140
+msgid "Hiển thị danh sách coupon ra trang chủ"
+msgstr "Display coupon list on home page"
+
+#: admin/fox-note.php:142
+msgid ""
+"Shortcode này chỉ hiển thị khi bạn bật chức năng Thêm chức năng tạo coupon "
+"trong cài đặt Foxtheme"
+msgstr ""
+"This shortcode is only visible when you enable Add coupon function in "
+"Foxtheme settings"
+
+#: admin/fox-note.php:151
+msgid "Tài liệu chung"
+msgstr "General documents"
+
+#: admin/fox-note.php:154
+msgid ""
+"Chức năng úp ảnh cho Story hoặc slide ảnh cho Post, Land, Shop, (id1, id2, "
+"id3, id4, id5, ..., idN)"
+msgstr ""
+"Function to flip photos for Story or slide photos for Post, Land, Shop, "
+"(id1, id2, id3, id4, id5, ..., idN)"
+
+#: admin/fox-note.php:160
+msgid "Tài liệu về Post"
+msgstr "Document about Post"
+
+#: admin/fox-note.php:165
+msgid "Link download thường, (link1, link2, link3,..., link10)"
+msgstr "Normal download link, (link1, link2, link3,..., link10)"
+
+#: admin/fox-note.php:166
+msgid "Tên download thường, (name1, name2, name3,...., name10)"
+msgstr "Normal download name, (name1, name2, name3,...., name10)"
+
+#: admin/fox-note.php:170
+msgid "Link download nhảy giây, (link1, link2, link3,..., link10)"
+msgstr "Link download jump seconds, (link1, link2, link3,..., link10)"
+
+#: admin/fox-note.php:171
+msgid "Tên download nhảy giây, (name1, name2, name3,...., name10)"
+msgstr "Download name jumps seconds, (name1, name2, name3,...., name10)"
+
+#: admin/fox-note.php:177
+msgid "Tài liệu về Story"
+msgstr "Story material"
+
+#: admin/fox-note.php:184
+msgid "Tác giả của truyện"
+msgstr "The author of the story"
+
+#: admin/fox-note.php:189
+msgid "Trạng thái truyện (đang ra / hoàn thành)"
+msgstr "Story status (in progress/completed)"
+
+#: admin/fox-note.php:190 inc/story.php:143 inc/story.php:144
+msgid "Nguồn truyện"
+msgstr "Story source"
+
+#: admin/fox-note.php:192
+msgid "Tác giả audio MP3"
+msgstr "MP3 audio author"
+
+#: admin/fox-note.php:194
+msgid "Liên kết audio MP3, (link1, link2, link3,..., link10)"
+msgstr "Link MP3 audio, (link1, link2, link3,..., link10)"
+
+#: admin/fox-note.php:195
+msgid "Tên tập audio MP3, (name1, name2, name3,...., name10)"
+msgstr "MP3 audio file name, (name1, name2, name3,...., name10)"
+
+#: admin/fox-note.php:197
+msgid "Danh sách link MP3 xuống dòng"
+msgstr "List of MP3 links down the line"
+
+#: admin/fox-note.php:202
+msgid "Tài liệu về Land"
+msgstr "Document about Land"
+
+#: admin/fox-note.php:209
+msgid "Chuyên mục bất động sản"
+msgstr "Real Estate Category"
+
+#: admin/fox-note.php:214
+msgid "Tỉnh / thành"
+msgstr "Province"
+
+#: admin/fox-note.php:215
+msgid "Quận / huyện"
+msgstr "District"
+
+#: admin/fox-note.php:216
+msgid "Phường / xã"
+msgstr "Wards"
+
+#: admin/fox-note.php:217
+msgid "Thôn / đường"
+msgstr "Village / road"
+
+#: admin/fox-note.php:220
+msgid "Tọa độ Google maps"
+msgstr "Google maps coordinates"
+
+#: admin/fox-note.php:223
+msgid "Loại đường (ô tô / xe máy)"
+msgstr "Road type (car/motorcycle)"
+
+#: admin/fox-note.php:224
+msgid "Vị trí (mặt tiền / hẻm)"
+msgstr "Location (front/alley)"
+
+#: admin/fox-note.php:225
+msgid "Hướng (đông / tây / nam / bắc / ...)"
+msgstr "North East South West / ...)"
+
+#: admin/fox-note.php:226
+msgid "Pháp lý (sổ đỏ / sổ hồng / viết tay / ...)"
+msgstr "Legal (red book / pink book / handwritten / ...)"
+
+#: admin/fox-note.php:229
+msgid "Chiều rộng"
+msgstr "Width"
+
+#: admin/fox-note.php:230
+msgid "Chiều dài"
+msgstr "Length"
+
+#: admin/fox-note.php:231
+msgid "Diện tích"
+msgstr "Acreage"
+
+#: admin/fox-note.php:234 admin/fox-note.php:257
+msgid "Số tiền"
+msgstr "Amount of money"
+
+#: admin/fox-note.php:236
+msgid "Điện thoại"
+msgstr "Phone"
+
+#: admin/fox-note.php:237
+msgid "Zalo"
+msgstr ""
+
+#: admin/fox-note.php:238
+msgid "Messenger"
+msgstr ""
+
+#: admin/fox-note.php:239
+msgid "Email"
+msgstr ""
+
+#: admin/fox-note.php:245
+msgid "Tài liệu về Shop"
+msgstr "Document about Shop"
+
+#: admin/fox-note.php:252
+msgid "Chuyên mục sản phẩm"
+msgstr "Product Category"
+
+#: admin/fox-note.php:260
+msgid "% giảm giá"
+msgstr "% discount"
+
+#: admin/fox-note.php:262
+msgid "Link tiếp thị Shopee"
+msgstr "Shopee marketing link"
+
+#: admin/fox-note.php:263
+msgid "Link tiếp thị Tiki"
+msgstr "Tiki Marketing Affiliate"
+
+#: admin/fox-note.php:264
+msgid "Link tiếp thị Lazada"
+msgstr "Lazada Marketing Affiliate"
+
+#: admin/fox-note.php:265
+msgid "Link tiếp thị Sendo"
+msgstr "Sendo Marketing Affiliate"
+
+#: admin/fox-note.php:266
+msgid "Link tiếp thị Amazon"
+msgstr "Lazada Marketing Affiliate"
+
+#: admin/fox-note.php:267
+msgid "Link tiếp thị Banggood"
+msgstr "Sendo Marketing Affiliate"
+
+#: admin/fox-note.php:272
+msgid "Tài liệu về Codex"
+msgstr "Documentation on Codex"
+
+#: admin/fox-note.php:279
+msgid "Chuyên mục code"
+msgstr "Code category"
+
+#: admin/fox-note.php:283
+msgid "Mã Html / CSS / Javascript / jQuery"
+msgstr "Html / CSS / Javascript / jQuery code"
+
+#: admin/fox-note.php:288
+msgid "Tài liệu về Youtube"
+msgstr "Documentation about Youtube"
+
+#: admin/fox-note.php:295
+msgid "Chuyên mục Youtube"
+msgstr "Youtube Category"
+
+#: admin/fox-note.php:299
+msgid "Link Youtube"
+msgstr "Youtube link"
+
+#: admin/fox-note.php:304
+msgid "Tài liệu về Coupon"
+msgstr "Documents about Coupon"
+
+#: admin/fox-note.php:311
+msgid "Nguồn coupon"
+msgstr "Coupon source"
+
+#: admin/fox-note.php:315 inc/coupon.php:98
+msgid "Nội dung coupon"
+msgstr "Coupon content"
+
+#: admin/fox-note.php:316 inc/coupon.php:100 inc/shop.php:108
+msgid "Phần trăm giảm giá"
+msgstr "Percent discount"
+
+#: admin/fox-note.php:317 inc/coupon.php:102
+msgid "Ngày hết hạn"
+msgstr "Expiration date"
+
+#: admin/fox-note.php:318 inc/coupon.php:105
+msgid "Mã giảm giá"
+msgstr "Discount code"
+
+#: admin/fox-note.php:319 inc/coupon.php:107 inc/shop.php:112
+msgid "Liên kết tiếp thị"
+msgstr "Affiliate Marketing"
+
+#: admin/fox-note.php:326
+msgid "Hướng dẫn sử dụng và tài liệu trực tuyến"
+msgstr "User manual and online documentation"
+
+#: admin/fox-note.php:327
+msgid "Bạn có thể xem hướng dẫn sử dụng Foxtheme tại đại chỉ này:"
+msgstr "You can see the Foxtheme user guide here:"
+
+#: admin/fox-notify.php:7
+msgid "FOX NOTIFY"
+msgstr ""
+
+#: admin/fox-notify.php:15
+msgid "NOTIFY"
+msgstr ""
+
+#: admin/fox-notify.php:16
+msgid "BLOCKER"
+msgstr ""
+
+#: admin/fox-notify.php:24
+msgid "Chức năng hiển thị thông báo trên Website"
+msgstr "The function of displaying notices on the Website"
+
+#: admin/fox-notify.php:25
+msgid ""
+"Notify là chức năng hiển thị một popup thông báo trên cùng của website cho "
+"phép người dùng có thể dễ dàng tiếp cận được nội dung mà bạn truyền tải."
+msgstr ""
+"Notify is a function that displays a notification popup on the top of the "
+"website allowing users to easily access the content you transmit."
+
+#: admin/fox-notify.php:28
+msgid "Bật Notify"
+msgstr "Enable Notify"
+
+#: admin/fox-notify.php:30 admin/fox-notify.php:51
+msgid "Nhập nội dung bạn muốn vào..."
+msgstr "Enter what you want in..."
+
+#: admin/fox-notify.php:31
+msgid ""
+"Nhập nội dung bạn muốn hiển thị ở thông báo vào ô trên, bạn có thể thêm liên "
+"kết nếu muốn."
+msgstr ""
+"Enter the content you want to display in the message in the box above, you "
+"can add a link if you want."
+
+#: admin/fox-notify.php:32
+msgid "Màu nền hiển thị"
+msgstr "Display background color"
+
+#: admin/fox-notify.php:40
+msgid "Chọn kiểu màu nền của thông báo hiển thị."
+msgstr "Select the background color of the displayed message."
+
+#: admin/fox-notify.php:45
+msgid "Chức năng thông báo chặn quảng cáo trên Website"
+msgstr "Notification function to block ads on Website"
+
+#: admin/fox-notify.php:46
+msgid ""
+"Blocker là tính năng hiển thị thông báo cho người dùng khi họ đang sử dụng "
+"trình chặn quảng cáo trên trình duyệt."
+msgstr ""
+"Blocker is a feature that displays notifications to users when they are "
+"using a browser ad blocker."
+
+#: admin/fox-notify.php:49
+msgid "Bật Blocker"
+msgstr "Enable Blocker"
+
+#: admin/fox-notify.php:52
+msgid "Nhập nội dung bạn muốn hiển thị thông báo về Blocker ở ô trên."
+msgstr ""
+"Enter what you want to display a message about Blocker in the box above."
+
+#: admin/fox-notify.php:55
+msgid "Bật nút tắt"
+msgstr "Enable off button"
+
+#: admin/fox-notify.php:56
+msgid ""
+"Bật nút tắt thông báo Blocker nếu bạn muốn, khi đó người dùng có thể tắt "
+"thông báo hiển thị."
+msgstr ""
+"Turn off Blocker notifications if you want, then users can turn off visible "
+"notifications."
+
+#: admin/fox-notify.php:95
+msgid "Bạn chưa thêm nội dung vào"
+msgstr "You have not added content yet"
+
+#: admin/fox-notify.php:109
+msgid ""
+"Mình rất buồn khi bạn sử dụng tính năng chặn quảng cáo trên trang web này, "
+"hãy bỏ chặn trang này để ủng hộ cho tác giả"
+msgstr ""
+"I am very sad when you use the ad blocking feature on this site, please "
+"unblock this page in favor of the author"
+
+#: admin/fox-notify.php:110
+msgid "Tôi hiểu rồi"
+msgstr "I get it"
+
+#: admin/fox-notify.php:114
+msgid "Tắt AdBlocker"
+msgstr "Disable AdBlocker"
+
+#: admin/fox-onchat.php:6
+msgid "FOX ON CHAT"
+msgstr ""
+
+#: admin/fox-onchat.php:15
+msgid "Chức năng tạo liên hệ cho Website"
+msgstr "Function to create contact for Website"
+
+#: admin/fox-onchat.php:16
+msgid ""
+"On chat là chức năng tạo biểu tượng chát trên trang web, giúp cho người dùng "
+"có thể liên hệ với bạn."
+msgstr ""
+"On chat is a function to create a chat icon on the website, allowing users "
+"to contact you."
+
+#: admin/fox-onchat.php:19
+msgid "Bật On chat"
+msgstr "Enable On Chat"
+
+#: admin/fox-onchat.php:21 admin/fox-shop.php:27 profile.php:119
+msgid "Số điện thoại"
+msgstr "Phone number"
+
+#: admin/fox-onchat.php:22 admin/fox-shop.php:28
+msgid "Nhập số điện thoại liên hệ của bạn vào ô trên."
+msgstr "Enter your contact phone number in the box above."
+
+#: admin/fox-onchat.php:24 admin/fox-shop.php:30
+msgid "ID chính là ID Facebook của bạn."
+msgstr "Primary ID is your Facebook ID."
+
+#: admin/fox-onchat.php:26 admin/fox-shop.php:32
+msgid "Nhập số điện thoại Zalo của bạn vào ô trên."
+msgstr "Enter your Zalo phone number in the box above."
+
+#: admin/fox-onchat.php:28
+msgid "Nhập ID Telegram của bạn vào ô trên."
+msgstr "Enter your Telegram ID in the box above."
+
+#: admin/fox-onchat.php:30
+msgid "Nhập Email của bạn vào ô trên."
+msgstr "Enter your Email in the box above."
+
+#: admin/fox-onchat.php:57 template-parts/baiviet-shop.php:88
+msgid "Gọi điện"
+msgstr "Call"
+
+#: admin/fox-onchat.php:58 template-parts/baiviet-shop.php:90
+msgid "Nhắn tin Zalo"
+msgstr "Message Zalo"
+
+#: admin/fox-onchat.php:59 template-parts/baiviet-shop.php:89
+msgid "Nhắn tin Messenger"
+msgstr "Messaging Messenger"
+
+#: admin/fox-onchat.php:62
+msgid "Nhắn tin Telegram"
+msgstr "Telegram Messaging"
+
+#: admin/fox-onchat.php:64
+msgid "Gửi email"
+msgstr "Send email"
+
+#: admin/fox-onchat.php:67
+msgid "Liên hệ"
+msgstr "Contact"
+
+#: admin/fox-scurity.php:6
+msgid "FOX SCURITY"
+msgstr ""
+
+#: admin/fox-scurity.php:15
+msgid "Chức năng bảo mật cho website của bạn"
+msgstr "Security function for your website"
+
+#: admin/fox-scurity.php:17
+msgid ""
+"Sau khi kích hoạt chức năng bảo mật website của bạn sẽ an toàn hơn khi bị "
+"tấn công."
+msgstr ""
+"After activating the security function, your website will be more secure "
+"when attacked."
+
+#: admin/fox-scurity.php:21
+msgid "Bật scurity"
+msgstr "Enable  security"
+
+#: admin/fox-scurity.php:24
+msgid "Tùy chọn chức năng bảo mật của theme"
+msgstr "Theme security function options"
+
+#: admin/fox-scurity.php:26
+msgid "Bật chặn tải lên file không phải hình ảnh"
+msgstr "Enable non-image file upload blocking"
+
+#: admin/fox-scurity.php:27
+msgid ""
+"Bật chức năng này nếu bạn muốn chặn tải lên tất cả các file không phải là "
+"hình ảnh."
+msgstr ""
+"Enable this function if you want to block uploading of all files that are "
+"not images."
+
+#: admin/fox-scurity.php:30
+msgid "Tắt REST API"
+msgstr "Disable REST API"
+
+#: admin/fox-scurity.php:31
+msgid "Nếu bạn không sử dụng REST API thì nên tắt đi để bảo mật website."
+msgstr ""
+"If you do not use REST API, you should turn it off for website security."
+
+#: admin/fox-scurity.php:34
+msgid "Tắt XML RPC"
+msgstr "Turn off XML RPC"
+
+#: admin/fox-scurity.php:35
+msgid "Nếu bạn không sử dụng XML RPC thì nên tắt đi để bảo mật website."
+msgstr ""
+"If you do not use XML RPC, it should be turned off for website security."
+
+#: admin/fox-scurity.php:38
+msgid "Xóa các header info không cần thiết"
+msgstr "Remove unnecessary header info"
+
+#: admin/fox-scurity.php:39
+msgid "Xóa các header info không cần thiết nếu bạn muốn."
+msgstr "Remove unnecessary header info if you want."
+
+#: admin/fox-scurity.php:42
+msgid "Tắt Wp-Embed"
+msgstr "Disable Wp-Embed"
+
+#: admin/fox-scurity.php:43
+msgid "Nếu bạn không sử dụng Wp-Embed thì nên tắt đi để bảo mật website."
+msgstr ""
+"If you do not use Wp-Embed, you should turn it off to secure the website."
+
+#: admin/fox-scurity.php:46
+msgid "Tắt nguồn cấp dữ liệu khác"
+msgstr "Turn off other feeds"
+
+#: admin/fox-scurity.php:47
+msgid "Tắt nguồn cấp dữ liệu khác không cần thiết."
+msgstr "Turn off other unnecessary feeds."
+
+#: admin/fox-scurity.php:50
+msgid "Tắt X-Pingback"
+msgstr "Turn off X-Pingback"
+
+#: admin/fox-scurity.php:51
+msgid "Nếu bạn không sử dụng X-Pingback thì nên tắt đi để bảo mật website."
+msgstr ""
+"If you do not use X-Pingback, you should turn it off for website security."
+
+#: admin/fox-shop.php:6
+msgid "FOX SHOP"
+msgstr ""
+
+#: admin/fox-shop.php:16
+msgid "Cài đặt mua hàng"
+msgstr "Purchase settings"
+
+#: admin/fox-shop.php:24
+msgid ""
+"Lựa chọn phương thức mua hàng, tới liên kết tiếp thị hoặc liên hệ trực tiếp."
+msgstr ""
+"Choose a purchase method, go to affiliate marketing or contact directly."
+
+#: admin/fox-shop.php:26
+msgid "Cài đặt liên hệ mua hàng"
+msgstr "Purchase contact settings"
+
+#: admin/fox-shop.php:34
+msgid "Thêm shortcode biểu mẫu liên hệ"
+msgstr "Add contact form shortcode"
+
+#: admin/fox-shop.php:35
+msgid "Nhập [Shortcode] vào đây"
+msgstr "Enter [Shortcode] here"
+
+#: admin/fox-shop.php:37
+msgid ""
+"Bạn có thể sử dụng một số plugin để tạo biểu mẫu liên hệ, sau đó lấy "
+"shortcode biểu mẫu đó và thêm vào ô trên."
+msgstr ""
+"You can use some plugin to create a contact form, then take that form "
+"shortcode and add it to the box above."
+
+#: admin/fox-story.php:6
+msgid "FOX STORY"
+msgstr ""
+
+#: admin/fox-story.php:15
+msgid "Giao diện chương"
+msgstr "Chapter interface"
+
+#: admin/fox-story.php:23
+msgid "Chọn giao diện hiển thị chương truyện mà bạn muốn."
+msgstr "Select the interface to display the chapter you want."
+
+#: admin/fox-story.php:24
+msgid "Hiển thị chương trong truyện chính"
+msgstr "Show chapter in main story"
+
+#: admin/fox-story.php:26
+msgid "Số lượng chương hiển thị"
+msgstr "Number of chapters displayed"
+
+#: admin/fox-story.php:27
+msgid "Mặc định hiển thị 10 chương mới chuyển trang."
+msgstr "Default displays 10 new chapters turning pages."
+
+#: admin/fox-story.php:29
+msgid "Bật hiển thị chương mới"
+msgstr "Enable showing new chapters"
+
+#: admin/fox-story.php:30
+msgid ""
+"Hiển thị 6 chương mới nhất giúp cho những người theo dõi truyện dễ dàng đọc "
+"hơn."
+msgstr ""
+"Displaying the latest 6 chapters makes it easier for those who follow the "
+"story to read."
+
+#: admin/fox-story.php:33
+msgid "Bật chức năng truyện Audio"
+msgstr "Enable the Audio story function"
+
+#: admin/fox-story.php:34
+msgid "Bật chức năng này là bạn có thể đăng truyện Audio rồi đó."
+msgstr "Enable this function and you can post Audio stories."
+
+#: comments.php:28
+msgid "Rất tiếc, chức năng bình luận hiện không khả dụng cho bài viết này!"
+msgstr "Sorry, commenting is currently unavailable for this post!"
+
+#: footer.php:39
+msgid "Lên đầu trang"
+msgstr "Back to top"
+
+#: functions.php:14
+msgid "Trên"
+msgstr "Top"
+
+#: functions.php:15
+msgid "Dưới"
+msgstr "Bottom"
+
+#: functions.php:88
+msgid "Thanh bên"
+msgstr "Sidebar"
+
+#: functions.php:99
+msgid "Chân trang"
+msgstr "Footer"
+
+#: functions.php:110
+msgid "Giữa trang"
+msgstr "Middle"
+
+#: functions.php:121
+msgid "Thời tiết"
+msgstr "Weather"
+
+#: functions.php:132
+msgid "Giữa top"
+msgstr "Middle top"
+
+#: functions.php:143
+msgid "Dưới cùng"
+msgstr "Bottom"
+
+#: functions.php:257 index.php:54
+msgid "Tải thêm"
+msgstr "Download more"
+
+#: functions.php:388 inc/chucnang.php:784 land-manager.php:94
+#: template-parts/app/trang-thai-truyen.php:90
+#: template-parts/app/trang-thai-truyen.php:125
+#: template-parts/baiviet-land.php:37 template-parts/baiviet-land.php:186
+#: template-parts/baiviet.php:30 template-parts/baiviet.php:212
+#: template-parts/content-search.php:11 template-parts/home-codex.php:28
+#: template-parts/home-comic.php:28 template-parts/home-fox.php:24
+#: template-parts/home-grid.php:24 template-parts/home-images.php:42
+#: template-parts/home-land.php:37 template-parts/home-new.php:23
+#: template-parts/home-some.php:11 template-parts/home-story.php:19
+#: template-parts/home-text.php:12 template-parts/home-youtube.php:36
+#: template-parts/home.php:9 widget/post/banner.php:25
+#: widget/post/banner.php:40 widget/post/grid.php:28 widget/widget.php:97
+#: widget/widget.php:171 widget/widget.php:1317
+msgid "trước"
+msgstr "ago"
+
+#: get-password.php:11 inc/login.php:120 login.php:72
+msgid "Quên mật khẩu"
+msgstr "Forgot password"
+
+#: get-password.php:28
+msgid ""
+"Bạn sẽ nhận được một Email chứa liên kết thay đổi mật khẩu mới vào địa chỉ "
+"Email mà bạn đã đăng ký tài khoản"
+msgstr ""
+"You will receive an email containing a link to change your password to the "
+"email address you registered with"
+
+#: get-password.php:36
+msgid "Tài khoản hoặc địa chỉ email bạn nhập không hợp lệ"
+msgstr "The account or email address you entered is not valid"
+
+#: get-password.php:44
+msgid "Tên tài khoản hoặc địa chỉ Email"
+msgstr "Account name or Email address"
+
+#: get-password.php:48
+msgid "Xác nhận lấy lại"
+msgstr "Confirm return"
+
+#: get-password.php:51 new-password.php:76 register.php:129
+msgid "Bạn đã có tài khoản?"
+msgstr "Do you already have an account?"
+
+#: get-password.php:51 new-password.php:76 register.php:129
+msgid "đăng nhập"
+msgstr "log in"
+
+#: get-password.php:55 new-password.php:83 register.php:131
+msgid "Bạn đã đăng nhập tài khoản"
+msgstr "You are logged into your account"
+
+#: header.php:30
+msgid "Nhập từ khoá tìm kiếm"
+msgstr "Enter text search"
+
+#: header.php:33 header.php:68
+msgid "Tìm kiếm"
+msgstr "Search"
+
+#: header.php:34
+msgid "Đóng tìm kiếm"
+msgstr "Close search"
+
+#: header.php:72 header.php:80
+msgid "Quản lý tài khoản"
+msgstr "Account Management"
+
+#: header.php:72 inc/login.php:379 widget/widget.php:1099
+#: widget/widget.php:1104
+msgid "Ảnh đại diện"
+msgstr "Avatar"
+
+#: header.php:74
+msgid "Quản lý"
+msgstr "Manage"
+
+#: header.php:75
+msgid "Cá nhân"
+msgstr "Profire"
+
+#: header.php:76
+msgid "Đăng xuất"
+msgstr "Log out"
+
+#: header.php:82 login.php:13 login.php:60
+msgid "Đăng nhập"
+msgstr "Log in"
+
+#: header.php:83 inc/login.php:122 register.php:11 register.php:125
+msgid "Đăng ký"
+msgstr "Register"
+
+#: inc/binhluan.php:21
+msgid "Phản hồi sẻ hiển thị sau khi được phê duyệt."
+msgstr "Feedback will be displayed once approved."
+
+#: inc/binhluan.php:29
+msgid "Trả lời"
+msgstr "Reply"
+
+#: inc/binhluan.php:69
+msgid "Xác nhận thông tin của bạn"
+msgstr "Confirm your information"
+
+#: inc/binhluan.php:71
+msgid "Nhập tên của bạn"
+msgstr "Enter your name"
+
+#: inc/binhluan.php:75
+msgid "Nhập email của bạn"
+msgstr "Enter your email"
+
+#: inc/binhluan.php:79
+msgid "Nhập url của bạn"
+msgstr "Enter your url"
+
+#: inc/binhluan.php:81
+msgid "Xác nhận thông tin"
+msgstr "Xác nhận thông tin"
+
+#: inc/binhluan.php:84 inc/binhluan.php:86
+msgid "Đăng"
+msgstr "Post"
+
+#: inc/binhluan.php:89
+msgid "Viết bình luận"
+msgstr "Write a comment"
+
+#: inc/binhluan.php:97
+msgid "Biểu tượng cảm xúc"
+msgstr "Emoticon"
+
+#: inc/binhluan.php:115
+msgid "Hủy trả lời"
+msgstr "Cancel reply"
+
+#: inc/binhluan.php:116
+msgid "Chức năng bình luận hiện chỉ có thể hoạt động sau khi bạn đăng nhập!"
+msgstr ""
+"The comment function is currently only available after you are logged in!"
+
+#: inc/binhluan.php:143
+#, php-format
+msgid "%s trước"
+msgstr "%s ago"
+
+#: inc/chucnang.php:51
+#, php-format
+msgid "%s phút"
+msgstr "%s minutes"
+
+#: inc/chucnang.php:56
+#, php-format
+msgid "%s giờ"
+msgstr "%s hours"
+
+#: inc/chucnang.php:61
+#, php-format
+msgid "%s ngày"
+msgstr "%s days"
+
+#: inc/chucnang.php:66
+#, php-format
+msgid "%s tuần"
+msgstr "%s weeks"
+
+#: inc/chucnang.php:69
+#, php-format
+msgid "%s tháng"
+msgstr "%s months"
+
+#: inc/chucnang.php:73
+#, php-format
+msgid "%s năm"
+msgstr "%s years"
+
+#: inc/chucnang.php:320
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: inc/chucnang.php:333 inc/chucnang.php:339 inc/chucnang.php:341
+#: inc/chucnang.php:371
+msgid "lượt xem"
+msgstr "view"
+
+#: inc/chucnang.php:397
+msgid "Lượt xem"
+msgstr "Views"
+
+#: inc/chucnang.php:457 inc/chucnang.php:463 inc/chucnang.php:469
+#: inc/chucnang.php:475 inc/chucnang.php:481 inc/chucnang.php:487
+#: inc/chucnang.php:493
+msgid " TẢI NGAY"
+msgstr " DOWNLOAD NOW"
+
+#: inc/chucnang.php:686
+msgid "Đồng ý Cookie"
+msgstr "Accept Cookies"
+
+#: inc/chucnang.php:687
+msgid ""
+"Trang web này sử dụng Cookie để nâng cao trải nghiệm duyệt web của bạn và "
+"cung cấp các đề xuất được cá nhân hóa. Bằng cách chấp nhận để sử dụng trang "
+"web của chúng tôi"
+msgstr ""
+"This website uses Cookies to enhance your browsing experience and provide "
+"personalized recommendations. By accepting to use our website"
+
+#: inc/chucnang.php:689
+msgid "Tôi chấp nhận"
+msgstr "I agree"
+
+#: inc/chucnang.php:744 template-parts/baiviet.php:185
+msgid "Đề xuất cho bạn"
+msgstr "Recommend for you"
+
+#: inc/chucnang.php:744 template-parts/menu/menu-popup-1.php:3
+msgid "Đóng"
+msgstr "Close"
+
+#: inc/codex.php:6 inc/codex.php:7 inc/codex.php:11 inc/codex.php:17
+#: inc/codex.php:18
+msgid "Codex"
+msgstr ""
+
+#: inc/codex.php:8 inc/codex.php:9
+msgid "Thêm codex"
+msgstr "Add codex"
+
+#: inc/codex.php:10
+msgid "Chỉnh sửa codex"
+msgstr "Edit codex"
+
+#: inc/codex.php:12
+msgid "Xem codex"
+msgstr "View codex"
+
+#: inc/codex.php:13
+msgid "Tìm codex"
+msgstr "Find codex"
+
+#: inc/codex.php:14
+msgid "Không có codex nào"
+msgstr "No codex"
+
+#: inc/codex.php:15
+msgid "Không có codex nào trong thùng rác"
+msgstr "No codex in trash"
+
+#: inc/codex.php:16
+msgid "Tất cả codex"
+msgstr "All codex"
+
+#: inc/codex.php:48 inc/codex.php:49 inc/codex.php:50 inc/youtube.php:48
+#: inc/youtube.php:49 inc/youtube.php:50
+msgid "Chuyên mục"
+msgstr "Categories"
+
+#: inc/codex.php:84
+msgid "Thêm: HTML / CSS / JAVASCRIPT / JQUERY"
+msgstr "Add: HTML / CSS / JAVASCRIPT / JQUERY"
+
+#: inc/codex.php:95
+msgid "Thêm jQuery CDN nếu bạn muốn viết lệnh về nó"
+msgstr "Add jQuery CDN if you want to write commands about it"
+
+#: inc/codex.php:127
+msgid "Trang thử nghiệm"
+msgstr "Test page"
+
+#: inc/codex.php:133
+msgid "Thử nghiệm mã"
+msgstr "Code testing"
+
+#: inc/codex.php:138
+msgid "Shorcode: Code/Link"
+msgstr "Shortcode: Code/Link"
+
+#: inc/codex.php:148
+msgid "Hộp thử nghiệm"
+msgstr "Test box"
+
+#: inc/codex.php:152
+msgid "Tới trang thử nghiệm"
+msgstr "Go to test page"
+
+#: inc/comment.php:8
+msgid "Bình luận của bạn vừa được trả lời"
+msgstr "Your comment has just been answered"
+
+#: inc/comment.php:9
+msgid "Bình luận của bạn vừa được trả lời ở bài viết"
+msgstr "Your comment has been replied to on this post"
+
+#: inc/coupon.php:6 inc/coupon.php:7 inc/coupon.php:11 inc/coupon.php:17
+#: inc/coupon.php:18
+msgid "Coupon"
+msgstr ""
+
+#: inc/coupon.php:8 inc/coupon.php:9
+msgid "Thêm coupon"
+msgstr "More coupons"
+
+#: inc/coupon.php:10
+msgid "Chỉnh sửa coupon"
+msgstr "Edit coupons"
+
+#: inc/coupon.php:12
+msgid "Xem coupon"
+msgstr "View coupons"
+
+#: inc/coupon.php:13
+msgid "Tìm coupon"
+msgstr "Find coupons"
+
+#: inc/coupon.php:14
+msgid "Không có coupon nào"
+msgstr "There are no coupons"
+
+#: inc/coupon.php:15
+msgid "Không có coupon nào trong thùng rác"
+msgstr "There are no coupons in the trash"
+
+#: inc/coupon.php:16
+msgid "Tất cả coupon"
+msgstr "All coupons"
+
+#: inc/coupon.php:48 inc/coupon.php:49 inc/coupon.php:50
+msgid "Nguồn"
+msgstr "Source"
+
+#: inc/coupon.php:84
+msgid "Nhập nội dung coupon"
+msgstr "Enter coupon content"
+
+#: inc/coupon.php:104
+msgid ""
+"Vui lòng nhập ngày hết hạn theo chuẩn dd/mm/yyyy để coupon của bạn hiển thị "
+"hết hạn"
+msgstr ""
+"Please enter an expiration date in standard dd/mm/yyyy for your coupon to "
+"display expired"
+
+#: inc/coupon.php:141
+msgid "Coupon hết hạn"
+msgstr "Expired Coupon"
+
+#: inc/coupon.php:155 inc/coupon.php:194 template-parts/coupon-content.php:45
+#: template-parts/coupon.php:14
+msgid "Hết hạn"
+msgstr "Expired"
+
+#: inc/coupon.php:165
+msgid "Shortcode"
+msgstr ""
+
+#: inc/coupon.php:187 template-parts/coupon.php:7
+msgid "NHẬN NGAY"
+msgstr "GET NOW"
+
+#: inc/coupon.php:201 single-coupon.php:27 template-parts/coupon.php:21
+#: widget/widget-coupon.php:55
+msgid "COUPON"
+msgstr ""
+
+#: inc/coupon.php:214 template-parts/coupon-content.php:26
+#: template-parts/coupon.php:34
+msgid "Nhận mã"
+msgstr "Get code"
+
+#: inc/coupon.php:218 template-parts/coupon-content.php:30
+#: template-parts/coupon.php:38
+msgid "Xem"
+msgstr "View"
+
+#: inc/custom-color.php:15
+msgid "Màu chữ chủ đạo chế độ sáng"
+msgstr "Light mode text color"
+
+#: inc/custom-color.php:27
+msgid "Màu chữ chủ đạo chế độ tối"
+msgstr "Dark mode text color"
+
+#: inc/custom-color.php:40
+msgid "Màu nền thanh bar chế độ sáng"
+msgstr "Light mode bar background color"
+
+#: inc/custom-color.php:51
+msgid "Màu nền thanh bar chế độ tối"
+msgstr "Dark mode bar background color"
+
+#: inc/custom-color.php:63
+msgid "Màu biểu tượng ở thanh bar"
+msgstr "Bar icon color"
+
+#: inc/custom-color.php:74
+msgid "Màu nền menu GB chế độ sáng"
+msgstr "Light mode menu GB background color"
+
+#: inc/custom-color.php:85
+msgid "Màu nền menu GB chế độ tối"
+msgstr "Dark mode menu GB background color"
+
+#: inc/custom-color.php:96
+msgid "Màu chữ menu GB"
+msgstr "Menu GB text color"
+
+#: inc/custom-color.php:107
+msgid "Màu chữ menu top"
+msgstr "Top menu text color"
+
+#: inc/land.php:5 inc/land.php:6 inc/land.php:16
+msgid "Nhà đất"
+msgstr "Real estate"
+
+#: inc/land.php:7 inc/land.php:8
+msgid "Thêm tin mới"
+msgstr "More news"
+
+#: inc/land.php:9
+msgid "Chỉnh sửa tin"
+msgstr "Edit news"
+
+#: inc/land.php:10 inc/land.php:17
+msgid "Tin"
+msgstr "News"
+
+#: inc/land.php:11
+msgid "Xem tin"
+msgstr "View news"
+
+#: inc/land.php:12
+msgid "Tìm tin"
+msgstr "Find news"
+
+#: inc/land.php:13
+msgid "Không có tin nào"
+msgstr "No news"
+
+#: inc/land.php:14
+msgid "Không có tin nào trong thùng rác"
+msgstr "There are no messages in the trash"
+
+#: inc/land.php:15
+msgid "Tất cả tin"
+msgstr "All news"
+
+#: inc/land.php:47 inc/land.php:48 inc/land.php:49
+msgid "Loại"
+msgstr "Type"
+
+#: inc/land.php:86
+msgid "Thêm thông tin về bất động sản"
+msgstr "More information about real estate"
+
+#: inc/login.php:118
+msgid "Đăng nhâp"
+msgstr "Sign in"
+
+#: inc/login.php:119 template-parts/baiviet-shop.php:102
+msgid "Thông tin"
+msgstr "Information"
+
+#: inc/login.php:121
+msgid "Lấy lại mật khẩu"
+msgstr "Password retrieval"
+
+#: inc/login.php:298
+msgid "Khoá nội dung theo thuộc tính"
+msgstr "Lock content by attribute"
+
+#: inc/login.php:314
+msgid "Dùng để khoá nội dung bài viết hoặc chương truyện."
+msgstr "Used to lock the content of the article or story chapter."
+
+#: inc/login.php:315 inc/metabox-download.php:85
+msgid ""
+"Chú ý: Nếu bạn chọn kiểu khóa là Pass thì cần nhập mật khẩu vào ô bên dưới "
+"để có thể hoạt động"
+msgstr ""
+"Note: If you choose the lock type as Pass, you need to enter the password in "
+"the box below to be able to work"
+
+#: inc/login.php:348
+msgid "Chào mừng thành viên mới"
+msgstr "Welcome new member"
+
+#: inc/login.php:349
+msgid "Bạn đã đăng ký tài khoản thành công"
+msgstr "You have successfully registered an account"
+
+#: inc/login.php:357
+msgid "Email đã được gửi thành công đến người dùng có email là:"
+msgstr "The email has been successfully sent to the user whose email is:"
+
+#: inc/login.php:359
+msgid "Không gửi được email đến người dùng có email là:"
+msgstr "Failed to send email to user whose email is:"
+
+#: inc/login.php:378
+msgid "xóa avatar"
+msgstr "delete avatar"
+
+#: inc/login.php:559 template-parts/app/download-manager.php:57
+#: template-parts/baiviet-story-style1.php:66
+#: template-parts/baiviet-story-style2.php:68 template-parts/baiviet.php:91
+msgid "Bạn cần đăng nhập tài khoản mới có thể xem được"
+msgstr "You need to be logged in to view it"
+
+#: inc/login.php:563 inc/login.php:583 inc/login.php:599
+#: template-parts/app/download-manager.php:58
+#: template-parts/app/download-manager.php:66
+#: template-parts/app/download-manager.php:77
+#: template-parts/baiviet-story-style1.php:67
+#: template-parts/baiviet-story-style1.php:79
+#: template-parts/baiviet-story-style1.php:91
+#: template-parts/baiviet-story-style2.php:69
+#: template-parts/baiviet-story-style2.php:81
+#: template-parts/baiviet-story-style2.php:93 template-parts/baiviet.php:92
+#: template-parts/baiviet.php:101 template-parts/baiviet.php:113
+msgid "Nội dung đã bị khóa"
+msgstr "Content is locked"
+
+#: inc/login.php:579 template-parts/app/download-manager.php:65
+#: template-parts/baiviet-story-style1.php:78
+#: template-parts/baiviet-story-style2.php:80 template-parts/baiviet.php:100
+msgid "Bạn cần đăng ký tài khoản VIP để xem"
+msgstr "You need to register for a VIP account to watch"
+
+#: inc/login.php:592 template-parts/app/download-manager.php:70
+#: template-parts/baiviet-story-style1.php:84
+#: template-parts/baiviet-story-style2.php:86 template-parts/baiviet.php:106
+msgid "Mật khẩu bạn nhập không đúng"
+msgstr "The password you entered is incorrect"
+
+#: inc/login.php:597 template-parts/app/download-manager.php:75
+#: template-parts/baiviet-story-style1.php:89
+#: template-parts/baiviet-story-style2.php:91 template-parts/baiviet.php:111
+msgid "Bạn cần nhập mật khẩu để mở khóa"
+msgstr "You need to enter password to unlock"
+
+#: inc/login.php:604 template-parts/app/download-manager.php:82
+#: template-parts/baiviet-story-style1.php:96
+#: template-parts/baiviet-story-style2.php:98 template-parts/baiviet.php:118
+msgid "MẬT KHẨU"
+msgstr "PASSWORD"
+
+#: inc/login.php:605 new-password.php:61 new-password.php:97 register.php:107
+#: register.php:145 template-parts/app/download-manager.php:83
+#: template-parts/baiviet-story-style1.php:97
+#: template-parts/baiviet-story-style2.php:99 template-parts/baiviet.php:119
+#: widget/post/rank.php:5
+msgid "XEM"
+msgstr "VIEW"
+
+#: inc/metabox-download.php:4
+msgid "Tạo liên kết tải về"
+msgstr "Generate download link"
+
+#: inc/metabox-download.php:27
+msgid "Liên kết mã hóa"
+msgstr "Encrypted Links"
+
+#: inc/metabox-download.php:35 inc/metabox-download.php:44
+#: inc/metabox-download.php:59 inc/metabox-download.php:68
+msgid "Nhập link"
+msgstr "Enter the link"
+
+#: inc/metabox-download.php:36 inc/metabox-download.php:45
+#: inc/metabox-download.php:60 inc/metabox-download.php:69
+msgid "Nhập tên"
+msgstr "Enter name"
+
+#: inc/metabox-download.php:49 inc/metabox-download.php:73
+msgid "Thêm link"
+msgstr "More links"
+
+#: inc/metabox-download.php:51
+msgid "Liên kết nhảy giây"
+msgstr "Second jump link"
+
+#: inc/metabox-download.php:75
+msgid "Khóa tải về"
+msgstr "Download Lock"
+
+#: inc/metabox-download.php:84
+msgid "Sử dụng chức năng này để khóa phần nội dung tải về"
+msgstr "Use this function to lock the downloaded content"
+
+#: inc/metabox-imgshow.php:6 inc/metabox-imgshow.php:24
+msgid "Thêm hình ảnh"
+msgstr "More photos"
+
+#: inc/metabox-imgshow.php:25
+msgid "Chọn"
+msgstr "Choose"
+
+#: inc/metabox-imgshow.php:55 inc/metabox-imgshow.php:76
+msgid "Thêm ảnh"
+msgstr "More photos"
+
+#: inc/metabox-imgshow.php:91
+msgid "Xoá hết"
+msgstr "Erase it all"
+
+#: inc/scurity.php:16
+msgid "Xin lỗi bạn chỉ có thể tải lên file ảnh định dạng .GIF, .JPG, hay .PNG"
+msgstr "Sorry, you can only upload .GIF, .JPG, or .PNG image files"
+
+#: inc/scurity.php:29
+msgid "You are not currently logged in."
+msgstr "You are not currently logged in."
+
+#: inc/shop.php:5 inc/shop.php:6 inc/shop.php:10 inc/shop.php:16
+#: inc/shop.php:17
+msgid "Mặt hàng"
+msgstr "Items"
+
+#: inc/shop.php:7 inc/shop.php:8
+msgid "Thêm mặt hàng"
+msgstr "More items"
+
+#: inc/shop.php:9
+msgid "Chỉnh sửa mặt hàng"
+msgstr "Edit Item"
+
+#: inc/shop.php:11
+msgid "Xem mặt hàng"
+msgstr "View items"
+
+#: inc/shop.php:12
+msgid "Tìm mặt hàng"
+msgstr "Find items"
+
+#: inc/shop.php:13
+msgid "Không có mặt hàng nào"
+msgstr "There are no items available"
+
+#: inc/shop.php:14
+msgid "Không có mặt hàng nào trong thùng rác"
+msgstr "There are no items in the trash"
+
+#: inc/shop.php:15
+msgid "Tất cả mặt hàng"
+msgstr "All items"
+
+#: inc/shop.php:47 inc/shop.php:48 inc/shop.php:49
+msgid "Danh mục"
+msgstr "Categories"
+
+#: inc/shop.php:86
+msgid "Thêm thông tin về mặt hàng"
+msgstr "More information about the item"
+
+#: inc/shop.php:103 inc/shop.php:105 inc/shop.php:106
+msgid "Giá bán"
+msgstr "Price"
+
+#: inc/shop.php:110
+msgid "Nhập phần trăm giảm giá"
+msgstr "Enter discount percentage"
+
+#: inc/shop.php:113
+msgid "Liên kết tiếp thị Shopee"
+msgstr "Shopee Marketing Affiliate"
+
+#: inc/shop.php:114
+msgid "Liên kết tiếp thị Tiki"
+msgstr "Tiki Marketing Affiliate"
+
+#: inc/shop.php:115
+msgid "Liên kết tiếp thị Lazada"
+msgstr "Lazada Marketing Affiliate"
+
+#: inc/shop.php:116
+msgid "Liên kết tiếp thị Sendo"
+msgstr "Sendo Marketing Affiliate"
+
+#: inc/shop.php:117
+msgid "Liên kết tiếp thị Amazon"
+msgstr "Amazon Marketing Affiliate"
+
+#: inc/shop.php:118
+msgid "Liên kết tiếp thị Banggood"
+msgstr "Banggood Marketing Affiliate"
+
+#: inc/shop.php:127 inc/shop.php:183
+msgid "nghìn"
+msgstr "thousand"
+
+#: inc/shop.php:128 inc/shop.php:183
+msgid "triệu"
+msgstr "million"
+
+#: inc/shop.php:129 inc/shop.php:183
+msgid "tỷ"
+msgstr "Billion"
+
+#: inc/shop.php:130 inc/shop.php:183
+msgid "ngàn tỷ"
+msgstr "trillion"
+
+#: inc/story.php:6 inc/story.php:7 inc/story.php:11 inc/story.php:17
+#: inc/story.php:18 inc/story.php:261 inc/story.php:263 inc/story.php:282
+#: inc/story.php:292 inc/story.php:396 template-parts/app/audio.php:17
+#: template-parts/app/audio.php:28
+msgid "Chương"
+msgstr "Chapter"
+
+#: inc/story.php:8 inc/story.php:9
+msgid "Thêm chương mới"
+msgstr "Add new chapter"
+
+#: inc/story.php:10
+msgid "Chỉnh sửa chương"
+msgstr "Chapter Editing"
+
+#: inc/story.php:12
+msgid "Xem chương"
+msgstr "View chapter"
+
+#: inc/story.php:13
+msgid "Tìm chương"
+msgstr "Find chapter"
+
+#: inc/story.php:14
+msgid "Không có chương nào"
+msgstr "There are no chapters"
+
+#: inc/story.php:15
+msgid "Không có chương nào trong thùng rác"
+msgstr "There are no chapters in the trash"
+
+#: inc/story.php:16
+msgid "Tất cả chương"
+msgstr "All Chapters"
+
+#: inc/story.php:48 inc/story.php:49 inc/story.php:50
+msgid "Tác giả"
+msgstr "Author"
+
+#: inc/story.php:81
+msgid "Truyện"
+msgstr "Story"
+
+#: inc/story.php:82
+msgid "Quản lý truyện"
+msgstr "Story management"
+
+#: inc/story.php:83
+msgid "Truyện mới"
+msgstr "New story"
+
+#: inc/story.php:107
+msgid "Nhập tên truyện vào"
+msgstr "Enter the title of the story"
+
+#: inc/story.php:128
+msgid "Chức năng đăng truyện chữ"
+msgstr "The function of posting stories"
+
+#: inc/story.php:137
+msgid "Trạng thái"
+msgstr "Status"
+
+#: inc/story.php:139
+msgid "Không chọn"
+msgstr "Not selected"
+
+#: inc/story.php:140
+msgid "Đang ra"
+msgstr "Unfinished"
+
+#: inc/story.php:141
+msgid "Hoàn thành"
+msgstr "Complete"
+
+#: inc/story.php:146 inc/story.php:284 inc/story.php:294
+msgid "Chương mới"
+msgstr "New Chapter"
+
+#: inc/story.php:147
+msgid "Danh sách chương"
+msgstr "Chapter List"
+
+#: inc/story.php:176
+msgid "Chức năng đăng truyện Audio"
+msgstr "Audio story posting function"
+
+#: inc/story.php:191
+msgid "Thông tin truyện"
+msgstr "Story information"
+
+#: inc/story.php:192
+msgid "Tác giả truyện hoặc list truyện"
+msgstr "Story author or story list"
+
+#: inc/story.php:193
+msgid "Tập tin truyện"
+msgstr "Story files"
+
+#: inc/story.php:201 inc/story.php:210
+msgid "Nhập link file MP3 vào"
+msgstr "Enter the MP3 file link"
+
+#: inc/story.php:202 inc/story.php:211
+msgid "Nhập tên truyện"
+msgstr "Enter story title"
+
+#: inc/story.php:215
+msgid "Thêm list"
+msgstr "Add list"
+
+#: inc/story.php:216
+msgid ""
+"Thay vì bạn nhập từng file như ở trên, bạn có thể nhập danh sách file mp3 "
+"bằng ô bên dưới và nhớ là phải xuống dòng nhé."
+msgstr ""
+"Instead of entering each file as above, you can enter the list of mp3 files "
+"using the box below and remember to enter a newline."
+
+#: inc/story.php:217
+msgid "Thêm list file mp3"
+msgstr "Add list of mp3 files"
+
+#: inc/story.php:283 inc/story.php:293
+msgid "DS chương"
+msgstr "Chapter List"
+
+#: inc/story.php:315
+msgid "Quản lý chương"
+msgstr "Chapter management"
+
+#: inc/story.php:333 inc/story.php:396
+msgid "Số chương:"
+msgstr "Chapter number:"
+
+#: inc/story.php:369
+msgid "tiếp"
+msgstr "next"
+
+#: inc/story.php:373 inc/story.php:385
+msgid "Không tìm thấy chương"
+msgstr "Chapter not found"
+
+#: inc/story.php:381
+msgid "sau"
+msgstr "prev"
+
+#: inc/youtube.php:6 inc/youtube.php:7 inc/youtube.php:11 inc/youtube.php:17
+#: inc/youtube.php:18
+msgid "Youtube"
+msgstr ""
+
+#: inc/youtube.php:8 inc/youtube.php:9
+msgid "Thêm Youtube"
+msgstr "Add Youtube"
+
+#: inc/youtube.php:10
+msgid "Chỉnh sửa Youtube"
+msgstr "Edit Youtube"
+
+#: inc/youtube.php:12
+msgid "Xem Youtube"
+msgstr "View Youtube"
+
+#: inc/youtube.php:13
+msgid "Tìm Youtube"
+msgstr "Tìm Youtube"
+
+#: inc/youtube.php:14
+msgid "Không có Youtube nào"
+msgstr "There is no Youtube"
+
+#: inc/youtube.php:15
+msgid "Không có Youtube nào trong thùng rác"
+msgstr "There are no Youtubes in the trash"
+
+#: inc/youtube.php:16
+msgid "Tất cả Youtube"
+msgstr "All Youtube"
+
+#: inc/youtube.php:87
+msgid "Thêm video Youtube của bạn"
+msgstr "Add your Youtube videos"
+
+#: inc/youtube.php:97
+msgid "Thêm link Youtube"
+msgstr "Add Youtube link"
+
+#: inc/youtube.php:98
+msgid "Bạn nhập link video Youtube vào ô trên"
+msgstr "You enter the Youtube video link in the box above"
+
+#: link.php:51
+msgid "VUI LÒNG ĐỢI TRONG GIÂY LÁT"
+msgstr "PLEASE WAIT FOR A SECTION"
+
+#: link.php:52
+msgid "Đang kiểm tra và giải mã liên kết đã được mã hoá"
+msgstr "Checking and decrypting encrypted link"
+
+#: link.php:59
+msgid "ĐI ĐẾN"
+msgstr "GO"
+
+#: link.php:62
+msgid "Liên kết này bị lỗi hoặc không tồn tại!"
+msgstr "This link is broken or does not exist!"
+
+#: login.php:38
+msgid "Sai tên đăng nhập hoặc mật khẩu!"
+msgstr "Wrong username or password!"
+
+#: login.php:40 login.php:42
+msgid "Bạn đã đăng xuất tài khoản!"
+msgstr "You are logged out of your account!"
+
+#: login.php:46
+msgid "Mật khẩu của bạn đã được thay đổi"
+msgstr "Your password has been changed"
+
+#: login.php:48
+msgid "Kiểm tra email của bạn để tìm liên kết đặt lại mật khẩu mới"
+msgstr "Check your email for a new password reset link"
+
+#: login.php:50
+msgid "Liên kết này đã không còn hiệu lực"
+msgstr "This link is no longer valid"
+
+#: login.php:61
+msgid "Lưu tài khoản"
+msgstr "Save account"
+
+#: login.php:65
+msgid "Tên tài khoản hoặc Email"
+msgstr "Account Name or Email"
+
+#: login.php:73
+msgid "Bạn chưa có tài khoản?"
+msgstr "Do not have an account?"
+
+#: login.php:73
+msgid "đăng ký"
+msgstr "registration"
+
+#: login.php:76
+msgid "Bạn đã đăng nhập với tài khoản"
+msgstr "You are logged in with the account"
+
+#: new-password.php:11
+msgid "Mật khẩu mới"
+msgstr "A new password"
+
+#: new-password.php:41
+msgid "Mật khẩu trống hoặc không giống nhau"
+msgstr "Password is blank or not the same"
+
+#: new-password.php:71 profile.php:173 register.php:117
+msgid "Nhập lại mật khẩu"
+msgstr "Enter the password"
+
+#: new-password.php:74
+msgid "Thay đổi mật khẩu"
+msgstr "Change the password"
+
+#: new-password.php:80
+msgid "Liên kết đặt lại mật khẩu không hợp lệ"
+msgstr "Invalid password reset link"
+
+#: new-password.php:93 register.php:141
+msgid "Mật khẩu quá yếu"
+msgstr "Password is too weak"
+
+#: new-password.php:94 register.php:142
+msgid "Mật khẩu trung bình"
+msgstr "Average password"
+
+#: new-password.php:95 register.php:143
+msgid "Mật khẩu rất mạnh"
+msgstr "Very strong password"
+
+#: new-password.php:96 register.php:144
+msgid "ẨN"
+msgstr "HIDE"
+
+#: nojavascript.php:9
+msgid "Trình duyệt không bật Javascript"
+msgstr "Browser does not enable Javascript"
+
+#: nojavascript.php:44
+msgid "Vui lòng bật Javascript để có thể truy cập trang"
+msgstr "Please enable Javascript to access the page"
+
+#: profile.php:14
+msgid "Mật khẩu mà bạn nhập không khớp!"
+msgstr "The password you entered does not match!"
+
+#: profile.php:51
+msgid "Trang này chỉ hoạt động sau khi bạn đã đăng nhập"
+msgstr "This page only works after you are logged in"
+
+#: profile.php:73
+msgid "Số ID:"
+msgstr "ID number:"
+
+#: profile.php:75
+msgid "Bạn đang sử dụng tài khoản thường"
+msgstr "Are you using a regular account"
+
+#: profile.php:85
+msgid "Số ngày hết vip:"
+msgstr "Number of days out of vip:"
+
+#: profile.php:88 template-parts/baiviet-story-style1.php:55
+#: template-parts/baiviet-story-style2.php:57 template-parts/baiviet.php:63
+msgid "Hôm nay là hết hạn"
+msgstr "Today is the deadline"
+
+#: profile.php:93
+msgid "Bạn đang sử dụng tài khoản VIP"
+msgstr "You are using a VIP account"
+
+#: profile.php:96
+msgid "Bạn đang sử dụng tài khoản Admin"
+msgstr "You are using an Admin account"
+
+#: profile.php:105
+msgid "Thông tin cơ bản"
+msgstr "Basic information"
+
+#: profile.php:108 register.php:87
+msgid "Họ của bạn"
+msgstr "Surname"
+
+#: profile.php:112 register.php:91
+msgid "Tên của bạn"
+msgstr "Name"
+
+#: profile.php:124
+msgid "Số Zalo"
+msgstr "Zalo number"
+
+#: profile.php:140
+msgid "là Id Tiktok của bạn."
+msgstr "is your Tiktok Id."
+
+#: profile.php:141
+msgid "là Id Telegram của bạn."
+msgstr "is your Telegram Id."
+
+#: profile.php:154
+msgid "là Id Facebook của bạn."
+msgstr "is your Facebook Id."
+
+#: profile.php:155
+msgid "là Id Twitter của bạn."
+msgstr "is your Twitter Id."
+
+#: profile.php:157
+msgid "Chia sẻ thêm về bạn"
+msgstr "Share more about you"
+
+#: profile.php:160
+msgid "Slogan"
+msgstr ""
+
+#: profile.php:165
+msgid "Bạn muốn giới thiệu bản thân?"
+msgstr "Want to introduce yourself?"
+
+#: profile.php:166
+msgid "Bạn có muốn thay đổi mật khẩu mới?"
+msgstr "Do you want to change the new password?"
+
+#: profile.php:178
+msgid "Cập nhật thông tin"
+msgstr "Update information"
+
+#: profile.php:185
+msgid "Xin lỗi, trang này không tồn tại."
+msgstr "Sorry, this page does not exist."
+
+#: register.php:48
+msgid "Vui lòng không bỏ trống những thông tin bắt buộc!"
+msgstr "Please do not leave the required information blank!"
+
+#: register.php:51
+msgid "Bạn chưa xác thực reCAPTCHA!"
+msgstr "You have not verified reCAPTCHA!"
+
+#: register.php:53
+msgid "Địa chỉ email không hợp lệ!"
+msgstr "Email address is not valid!"
+
+#: register.php:55
+msgid "Địa chỉ email đã tồn tại!"
+msgstr "Email address already exists!"
+
+#: register.php:57
+msgid "Hai mật khẩu không giống nhau!"
+msgstr "Two passwords are not the same!"
+
+#: register.php:59
+msgid "Mật khẩu quá đơn giản!"
+msgstr "The password is too simple!"
+
+#: register.php:61
+msgid "Mật khẩu quá ngắn!"
+msgstr "Password is too short!"
+
+#: register.php:65
+msgid "Lỗi khởi tạo tài khoản!"
+msgstr "Account initialization error!"
+
+#: register.php:68
+msgid "Bạn đã đăng ký thành công"
+msgstr "You have successfully registered"
+
+#: register.php:96
+msgid "Tên đăng nhập"
+msgstr "Account name"
+
+#: search.php:14 template-parts/content-none.php:11 widget/widget.php:529
+msgid "Nhập nội dung cần tìm kiếm"
+msgstr "Enter what you want to search for"
+
+#: single-coupon.php:27 widget/widget-coupon.php:55
+msgid "Xem tất cả mã giảm giá"
+msgstr "View all discount codes"
+
+#: single-coupon.php:27 widget/widget-coupon.php:55
+msgid "XEM NGAY"
+msgstr "WATCH NOW"
+
+#: single-coupon.php:35 single-shop.php:90 single-youtube.php:76
+#: template-parts/baiviet-land.php:189 template-parts/baiviet-shop.php:186
+#: template-parts/baiviet-youtube.php:103 template-parts/baiviet.php:215
+#: widget/post/banner.php:48 widget/post/face.php:29 widget/post/grid.php:31
+#: widget/post/rank.php:31 widget/post/rank.php:59 widget/post/rank.php:84
+#: widget/widget-coupon.php:64 widget/widget.php:100 widget/widget.php:504
+#: widget/widget.php:547 widget/widget.php:630 widget/widget.php:761
+#: widget/widget.php:1054 widget/widget.php:1229 widget/widget.php:1334
+#: widget/widget.php:1428
+msgid "Không có nội dung"
+msgstr "No content"
+
+#: single-land.php:20 single-shop.php:25 single-youtube.php:25 single.php:26
+msgid "Mặc định"
+msgstr "Default"
+
+#: single-land.php:21 single-shop.php:26 single-youtube.php:26 single.php:27
+msgid "Facebook"
+msgstr ""
+
+#: single-shop.php:43 single-youtube.php:43 template-parts/baiviet-land.php:129
+#: template-parts/baiviet-shop.php:133 template-parts/baiviet-youtube.php:65
+msgid "Đề xuất"
+msgstr "Recommend"
+
+#: single.php:57
+msgid "Mục lục"
+msgstr "Table of contents"
+
+#: template-parts/app/download-manager.php:6
+msgid "Chia sẻ tập tin"
+msgstr "File Sharing"
+
+#: template-parts/app/download-manager.php:17
+#: template-parts/app/download-manager.php:31
+msgid "Tải về"
+msgstr "Download"
+
+#: template-parts/app/loierror.php:5
+msgid "Nhập nội dung lỗi"
+msgstr "Enter error message"
+
+#: template-parts/app/loierror.php:13
+msgid "có thông báo:%0A - Tiêu đề: "
+msgstr "with notice:%0A - Title: "
+
+#: template-parts/app/loierror.php:13
+msgid "%0A - Liên kết: "
+msgstr "%0A - Links: "
+
+#: template-parts/app/loierror.php:13
+msgid "%0A - Nội dung: "
+msgstr "%0A - Content: "
+
+#: template-parts/app/loierror.php:22
+msgid "Cảm ơn! Thông báo của bạn đã được gửi đi"
+msgstr "Thank! Your message has been sent"
+
+#: template-parts/app/loierror.php:26
+msgid "Không được bỏ trống nội dung"
+msgstr "Content cannot be left blank"
+
+#: template-parts/app/trang-thai-truyen.php:7
+msgid "Trạng thái:"
+msgstr "Status:"
+
+#: template-parts/app/trang-thai-truyen.php:11
+msgid "Thể loại:"
+msgstr "Category:"
+
+#: template-parts/app/trang-thai-truyen.php:21
+msgid "Tác giả:"
+msgstr "Author:"
+
+#: template-parts/app/trang-thai-truyen.php:29
+msgid "Nguồn:"
+msgstr "Source:"
+
+#: template-parts/app/trang-thai-truyen.php:34
+msgid "Cập nhật:"
+msgstr "Update:"
+
+#: template-parts/app/trang-thai-truyen.php:53
+msgid "Đọc từ đầu"
+msgstr "Read now"
+
+#: template-parts/app/trang-thai-truyen.php:74
+msgid "MỚI CẬP NHẬT"
+msgstr "CHAPTER UPDATE"
+
+#: template-parts/app/trang-thai-truyen.php:111
+msgid "DANH SÁCH CHƯƠNG"
+msgstr "CHAPTER LIST"
+
+#: template-parts/app/trang-thai-truyen.php:133
+msgid "ĐẾN"
+msgstr "GO"
+
+#: template-parts/baiviet-codex.php:44
+msgid "Thay đổi hiển thị"
+msgstr "Change display"
+
+#: template-parts/baiviet-codex.php:45
+msgid "Thay đổi giao diện"
+msgstr "Change the look"
+
+#: template-parts/baiviet-codex.php:46 template-parts/baiviet-codex.php:78
+msgid "Mã nhúng & chia sẻ"
+msgstr "Embed code & share"
+
+#: template-parts/baiviet-codex.php:47
+msgid "Lưu"
+msgstr "Save"
+
+#: template-parts/baiviet-codex.php:48
+msgid "Chạy lệnh"
+msgstr "Run command"
+
+#: template-parts/baiviet-land.php:90 template-parts/baiviet.php:141
+#: template-parts/home.php:27
+msgid "bình luận"
+msgstr "comment"
+
+#: template-parts/baiviet-land.php:114 template-parts/baiviet-shop.php:120
+#: template-parts/baiviet-youtube.php:52 template-parts/baiviet.php:165
+msgid "Thích"
+msgstr "Likes"
+
+#: template-parts/baiviet-land.php:120
+#: template-parts/baiviet-story-style1.php:140
+#: template-parts/baiviet-story-style2.php:124 template-parts/baiviet.php:171
+msgid "Báo lỗi"
+msgstr "Error"
+
+#: template-parts/baiviet-land.php:122
+#: template-parts/baiviet-story-style1.php:142 template-parts/baiviet.php:173
+#: template-parts/home.php:49
+msgid "Bình luận"
+msgstr "Comment"
+
+#: template-parts/baiviet-land.php:125
+#: template-parts/baiviet-story-style1.php:145 template-parts/baiviet.php:176
+#: template-parts/home.php:50
+msgid "Chia sẻ"
+msgstr "Share"
+
+#: template-parts/baiviet-shop.php:59 template-parts/baiviet-shop.php:83
+msgid "Mua hàng"
+msgstr "Purchase"
+
+#: template-parts/baiviet-shop.php:85
+msgid "Liên hệ ngay"
+msgstr "Contact now"
+
+#: template-parts/baiviet-story-style1.php:29
+#: template-parts/baiviet-story-style2.php:31 template-parts/baiviet.php:35
+msgid "Thu nhỏ chữ"
+msgstr "Zoom out"
+
+#: template-parts/baiviet-story-style1.php:30
+#: template-parts/baiviet-story-style2.php:32 template-parts/baiviet.php:36
+msgid "Phóng to chữ"
+msgstr "Zoom in"
+
+#: template-parts/baiviet-story-style1.php:51
+#: template-parts/baiviet-story-style2.php:53 template-parts/baiviet.php:59
+msgid "Số ngày còn lại để đọc:"
+msgstr "Days left to read:"
+
+#: template-parts/baiviet.php:75
+msgid "XEM THÊM"
+msgstr "READ MORE"
+
+#: template-parts/baiviet.php:75
+msgid "THU GỌN"
+msgstr "HIDE"
+
+#: template-parts/content-none.php:20
+msgid "Từ khoá mà bạn đang tìm kiếm, có vẽ như không tồn tại :)"
+msgstr "The keyword you are looking for, looks like it doesn't exist :)"
+
+#: template-parts/coupon-content.php:50
+msgid "Thời gian hiệu lực đến: "
+msgstr "Valid time to: "
+
+#: template-parts/coupon-content.php:54 template-parts/coupon.php:48
+msgid "Mã giãm giá đến từ "
+msgstr "Discount code comes from "
+
+#: template-parts/footer-2.php:7
+msgid "Liên kết trên trang"
+msgstr "Links on the page"
+
+#: template-parts/trong.php:9
+msgid ""
+"Có vẽ như nội dung trên trang này chưa được cập nhật hoặc không tồn tại :)"
+msgstr ""
+"Looks like the content on this page has not been updated or does not exist :)"
+
+#: widget/post/rank.php:4
+msgid "Mới nhất"
+msgstr "Latest"
+
+#: widget/post/rank.php:4
+msgid "MỚI"
+msgstr "NEW"
+
+#: widget/post/rank.php:5
+msgid "Thịnh hành"
+msgstr "Popular"
+
+#: widget/post/rank.php:6
+msgid "Nhiều lượt xem"
+msgstr "Many views"
+
+#: widget/post/rank.php:6
+msgid "NỔI"
+msgstr "TREND"
+
+#: widget/widget-coupon.php:11
+msgid "Hiển thị tất cả coupon"
+msgstr "Show all coupons"
+
+#: widget/widget-coupon.php:25
+msgid "Tên hiển thị"
+msgstr "Display name"
+
+#: widget/widget-coupon.php:26 widget/widget.php:45 widget/widget.php:132
+#: widget/widget.php:576 widget/widget.php:717 widget/widget.php:1182
+#: widget/widget.php:1283 widget/widget.php:1382
+msgid "Số lượng"
+msgstr "Amount"
+
+#: widget/widget-land.php:10
+msgid "Hiển tìm kiếm nhà đất"
+msgstr "Show real estate search"
+
+#: widget/widget.php:11
+msgid "Hiển thị bài viết theo chuyên mục"
+msgstr "Show articles by category"
+
+#: widget/widget.php:48 widget/widget.php:306 widget/widget.php:579
+msgid "Lưới"
+msgstr "Grid"
+
+#: widget/widget.php:103 widget/widget.php:734 widget/widget.php:1202
+msgid "Thêm"
+msgstr "More"
+
+#: widget/widget.php:117
+msgid "Hiển thị bình luận gần đây"
+msgstr "Show recent comments"
+
+#: widget/widget.php:131
+msgid "Tiêu đề nội dung bình luận"
+msgstr "Comment content title"
+
+#: widget/widget.php:155
+msgid "Bình luận gần đây"
+msgstr "Recent Comments"
+
+#: widget/widget.php:189
+msgid "Hiển thị thời tiết"
+msgstr "Show weather"
+
+#: widget/widget.php:202
+msgid "Địa điểm thời tiết"
+msgstr "Weather location"
+
+#: widget/widget.php:220
+msgid "Tìm kiếm địa điểm"
+msgstr "Search for a place"
+
+#: widget/widget.php:246
+msgid "Độ ẩm"
+msgstr "Humidity"
+
+#: widget/widget.php:247
+msgid "Gió"
+msgstr "Wind"
+
+#: widget/widget.php:248
+msgid "Áp suất"
+msgstr "Pressure"
+
+#: widget/widget.php:249
+msgid "Không có địa điểm"
+msgstr "No location"
+
+#: widget/widget.php:262 widget/widget.php:283
+msgid "Hiển thị bài viết theo slide"
+msgstr "Show articles by slide"
+
+#: widget/widget.php:396
+msgid "Hiển thị thời gian"
+msgstr "Show the time"
+
+#: widget/widget.php:411 widget/widget.php:1473
+msgid ""
+"[\"Tháng 1\",\"Tháng 2\",\"Tháng 3\",\"Tháng 4\",\"Tháng 5\",\"Tháng 6\","
+"\"Tháng 7\",\"Tháng 8\",\"Tháng 9\",\"Tháng 10\",\"Tháng 11\",\"Tháng 12\"]"
+msgstr ""
+"[\"January\", \"February\", \"March\", \"April\", \"May\", \"June\", "
+"\"July\", \"August\", \"September\", \"October\", \"November\",\"December\"]"
+
+#: widget/widget.php:412
+msgid ""
+"[\"Chủ Nhật\",\"Thứ 2\",\"Thứ 3\",\"Thứ 4\",\"Thứ 5\",\"Thứ 6\",\"Thứ 7\"]"
+msgstr ""
+"[\"Sunday\",\"Monday\",\"Tuesday\",\"Wednesday\",\"Thursday\",\"Friday\","
+"\"Saturday\"]"
+
+#: widget/widget.php:425
+msgid "Hiển thị Coin"
+msgstr "Show Coins"
+
+#: widget/widget.php:436
+msgid "Xem thêm"
+msgstr "See more"
+
+#: widget/widget.php:436
+msgid "Thị trường coin"
+msgstr "Coin Market"
+
+#: widget/widget.php:454
+msgid "Hiển thị âm lịch"
+msgstr "Display lunar calendar"
+
+#: widget/widget.php:486
+msgid "Hiển thị tất cả tag"
+msgstr "Show all tags"
+
+#: widget/widget.php:502
+#, php-format
+msgid "Xem %s"
+msgstr "View %s"
+
+#: widget/widget.php:518
+msgid "Hiển thị box tìm kiếm"
+msgstr "Show search box"
+
+#: widget/widget.php:607
+msgid "Có nhiều lượt xem"
+msgstr "Multiple views"
+
+#: widget/widget.php:646
+msgid "Hiển thị bài viết có nhiều lượt xem và thịnh hành"
+msgstr "Show posts that have a lot of views and are trending"
+
+#: widget/widget.php:665
+msgid "Hiển thị bài viết theo dạng banner slide"
+msgstr "Display articles in the form of banner slides"
+
+#: widget/widget.php:685
+msgid "Hiển thị bài viết theo chuyên mục slide"
+msgstr "Show articles by category slide"
+
+#: widget/widget.php:701 widget/widget.php:1163 widget/widget.php:1265
+#: widget/widget.php:1366
+msgid "Tên chuyên mục"
+msgstr "Category name"
+
+#: widget/widget.php:734 widget/widget.php:1202
+msgid "Bạn nên xem"
+msgstr "You should see"
+
+#: widget/widget.php:778
+msgid "Hiển thị tính khoản vay"
+msgstr "Show loan calculation"
+
+#: widget/widget.php:789
+msgid "Tính lãi suất tiền vay"
+msgstr "Calculating loan interest"
+
+#: widget/widget.php:794
+msgid "Số tiền vay (triệu đồng)"
+msgstr "Loan amount (million VND)"
+
+#: widget/widget.php:798
+msgid "Kỳ hạn vay (tháng)"
+msgstr "Loan term (month)"
+
+#: widget/widget.php:802
+msgid "Lãi suất (%/năm)"
+msgstr "Interest rate (%/year)"
+
+#: widget/widget.php:805
+msgid "XUẤT KẾT QUẢ"
+msgstr "EXPORT RESULTS"
+
+#: widget/widget.php:813
+msgid "Đơn vị: VNĐ"
+msgstr "Unit: VNĐ"
+
+#: widget/widget.php:818
+msgid "DƯ NỢ GIẢM DẦN"
+msgstr "DECLINING OUTSTANDING LOANS"
+
+#: widget/widget.php:821
+msgid "ĐỀU HÀNG THÁNG"
+msgstr "EVEN MONTHLY"
+
+#: widget/widget.php:830 widget/widget.php:856
+msgid "Kỳ"
+msgstr "Term"
+
+#: widget/widget.php:831
+msgid "Tổng số gốc còn nợ"
+msgstr "Total principal owed"
+
+#: widget/widget.php:832
+msgid "Tiền gốc trả trong tháng"
+msgstr "Principal payment in the month"
+
+#: widget/widget.php:833
+msgid "Tiền lãi trong tháng"
+msgstr "Interest in the month"
+
+#: widget/widget.php:835 widget/widget.php:860
+msgid "Tổng số tiền thanh toán hàng tháng"
+msgstr "Total monthly payment"
+
+#: widget/widget.php:857
+msgid "Tiền gốc hàng tháng"
+msgstr "Monthly principal"
+
+#: widget/widget.php:858
+msgid "Tiền lãi hàng tháng"
+msgstr "Monthly profit"
+
+#: widget/widget.php:892
+msgid "Hiển thị bài viết mới ở trên cùng"
+msgstr "Show new posts at the top"
+
+#: widget/widget.php:915
+msgid "Hiển thị bộ chuyển đổi tiền tệ"
+msgstr "Show currency converter"
+
+#: widget/widget.php:928
+msgid "Nhập API key"
+msgstr "Enter API key"
+
+#: widget/widget.php:929
+msgid "Lấy API key ngay"
+msgstr "Get the API key now"
+
+#: widget/widget.php:945
+msgid "Chuyển đổi tiền tệ"
+msgstr "Currency conversion"
+
+#: widget/widget.php:964 widget/widget.php:972
+msgid "Đang chuyển đổi..."
+msgstr "Converting..."
+
+#: widget/widget.php:973
+msgid "Đã xảy ra sự cố"
+msgstr "Something went wrong"
+
+#: widget/widget.php:988
+msgid "Hiển thị bài viết theo chuyên mục có tải trang"
+msgstr "Show articles by category with page load"
+
+#: widget/widget.php:1046
+msgid "Xem bài viết ngay"
+msgstr "View the post now"
+
+#: widget/widget.php:1070
+msgid "Hiển thị hồ sơ của bạn"
+msgstr "Show your profile"
+
+#: widget/widget.php:1082
+msgid "Nhập id user của bạn"
+msgstr "Enter your user id"
+
+#: widget/widget.php:1143
+msgid "Hiển thị bài viết theo chuyên mục slide có nền gradient"
+msgstr "Display articles by category slide with gradient background"
+
+#: widget/widget.php:1164
+msgid "Chọn màu nền gradient"
+msgstr "Choose a gradient background color"
+
+#: widget/widget.php:1247
+msgid "Hiển thị bài viết theo chuyên mục có đường viền màu tùy chọn"
+msgstr "Display posts by category with optional color border"
+
+#: widget/widget.php:1266
+msgid "Chọn màu đường viền và tiêu đề"
+msgstr "Choose border color and title"
+
+#: widget/widget.php:1301
+msgid "Có thể bạn muốn xem qua"
+msgstr "Maybe you want to check it out"
+
+#: widget/widget.php:1333
+msgid "Xem thêm bài viết"
+msgstr "View more posts"
+
+#: widget/widget.php:1350
+msgid "Hiển thị bài viết theo chuyên mục có đường viền hạt"
+msgstr "Show articles by category with bead border"
+
+#: widget/widget.php:1399
+msgid "Xem nhanh"
+msgstr "Quick view"
+
+#: widget/widget.php:1443
+msgid "Hiển thị box lịch ngày tháng"
+msgstr "Display date calendar box"
+
+#: widget/widget.php:1461
+msgid "T 2"
+msgstr "Mon"
+
+#: widget/widget.php:1462
+msgid "T 3"
+msgstr "Tues"
+
+#: widget/widget.php:1463
+msgid "T 4"
+msgstr "Wed"
+
+#: widget/widget.php:1464
+msgid "T 5"
+msgstr "Thurs"
+
+#: widget/widget.php:1465
+msgid "T 6"
+msgstr "Fri"
+
+#: widget/widget.php:1466
+msgid "T 7"
+msgstr "Sat"
+
+#: widget/widget.php:1467
+msgid "CN"
+msgstr "Sun"
+
+#~ msgid "Nhập nội dung hiển thị cho LOGIN vào đây..."
+#~ msgstr "Enter the display content for LOGIN here..."
+
+#~ msgid ""
+#~ "Khi bạn sử dụng khoá LOGIN thì nội dung này sẽ hiển thị khi người dùng "
+#~ "truy cập bài viết."
+#~ msgstr ""
+#~ "When you use the LOGIN key, this content will be displayed when the user "
+#~ "accesses the post."
+
+#~ msgid "Nén code html thành một dòng"
+#~ msgstr "Compress html code into one line"
+
+#~ msgid ""
+#~ "Bật chức năng này code html của bạn sẽ được nén thành một dòng khi hiển "
+#~ "thị."
+#~ msgstr ""
+#~ "Enable this function your html code will be compressed to one line when "
+#~ "displayed."
+
+#~ msgid "TẢI NGAY 1"
+#~ msgstr "DOWNLOAD NOW 1"
+
+#~ msgid "TẢI NGAY 2"
+#~ msgstr "DOWNLOAD NOW 2"
+
+#~ msgid "TẢI NGAY 3"
+#~ msgstr "DOWNLOAD NOW 3"
+
+#~ msgid "TẢI NGAY"
+#~ msgstr "DOWNLOAD NOW"
+
+#~ msgid "Bản quyền kỹ thuật số chưa được kích hoạt"
+#~ msgstr "Digital copyright has not been activated"
+
+#~ msgid "Xem ngay"
+#~ msgstr "Watch now"
+
+#~ msgid "BẢN QUYỀN ĐÃ ĐƯỢC KÍCH HOẠT"
+#~ msgstr "COPYRIGHT HAS BEEN ACTIVED"
+
+#~ msgid "CHƯA KÍCH HOẠT BẢN QUYỀN"
+#~ msgstr "COPYRIGHT HAS NOT ACTIVED"
+
+#~ msgid "Bật chức năng truyện tranh"
+#~ msgstr "Enable the comic function"
+
+#~ msgid "Bật chức năng này là bạn có thể đăng truyện tranh rồi đó."
+#~ msgstr "Enable this function and you can post comics."
+
+#~ msgid ""
+#~ "Nếu bạn kích chọn chức năng này, luôn luôn có một thông báo nhỏ trên màn "
+#~ "hình cho người dùng biết trạng thái kết nối Internet."
+#~ msgstr ""
+#~ "If you click this function, there is always a small message on the screen "
+#~ "letting the user know the status of the Internet connection."
+
+#~ msgid "Hủy bỏ"
+#~ msgstr "Cancel"
+
+#~ msgid "Giá bán / đơn vị VNĐ"
+#~ msgstr "Selling price / unit VND"
+
+#~ msgid "Đăng nhập bằng"
+#~ msgstr "Sign in with"
+
+#~ msgid "Đăng ký bằng"
+#~ msgstr "Sign up with"
+
+#~ msgid "Trình phát Fox Audio"
+#~ msgstr "Fox Audio Player"
+
+#~ msgid "Bạn cần đăng ký tài khoản VIP để đọc chương này"
+#~ msgstr "You need to register for a VIP account to read this chapter"
+
+#~ msgid "Xem thêm thị trường"
+#~ msgstr "See more markets"
+
+#~ msgid "Vip"
+#~ msgstr "Vip"
+
+#~ msgid "Thêm truyện tranh"
+#~ msgstr "More comics"
+
+#~ msgid "Nội dung thêm vào bài viết"
+#~ msgstr "Content added to the article"
+
+#~ msgid "Thêm link download"
+#~ msgstr "More download link"
+
+#~ msgid "Link download 1"
+#~ msgstr "Link download 1"
+
+#~ msgid "Link download 2"
+#~ msgstr "Link download 2"
+
+#~ msgid "Link download 3"
+#~ msgstr "Link download 3"
+
+#~ msgid "Thêm quảng cáo Adsense đầu cuối bài viết"
+#~ msgstr "Add Adsense ads at the end of the article"
+
+#~ msgid "Màu nút tắt thông báo"
+#~ msgstr "Notification mute button color"
+
+#~ msgid "Cấu hình form đăng nhập & đăng ký"
+#~ msgstr "Configure login & registration form"
+
+#~ msgid "Cài đặt hiển thị VIP"
+#~ msgstr "VIP display settings"
+
+#~ msgid "Cài đặt hiển thị LOGIN"
+#~ msgstr "LOGIN display settings"
+
+#~ msgid "Đã lưu cài đặt"
+#~ msgstr "Settings saved."
+
+#~ msgid "Chức năng tạo chương truyện cho Website"
+#~ msgstr "Function to create story chapters for Website"
+
+#~ msgid ""
+#~ "Sau khi bạn bật Fox Story, website Wordpress của bạn sẽ có thể trở thành "
+#~ "một web chia sẻ truyện tranh, chữ và audio rồi đó."
+#~ msgstr ""
+#~ "After you enable Fox Story, your Wordpress website will be able to become "
+#~ "a web for sharing comics, text and audio."
+
+#~ msgid "HƯỚNG DẪN FOX THEME"
+#~ msgstr "GUIDE FOX THEME"
+
+#~ msgid ""
+#~ "Theme này có 2 vị trí menu là ở trên và ở dưới, khi bạn tạo menu hãy đặt "
+#~ "tên cho menu ở trên là <span style=\"font-weight:bold;color:"
+#~ "#ff4444\">Menu 1</span>, và menu ở dưới hãy đặt tên cho menu là <span "
+#~ "style=\"font-weight:bold;color:#ff4444\">Menu 2</span>. Và chọn vị trí "
+#~ "tương ứng để hiển thị.<br><br>\n"
+#~ "    \t\t    Để hiển thị kiểu menu bạn hãy vào <span style=\"font-weight:"
+#~ "bold;color:#ff4444\">Foxtheme > Cài đặt hiển thị > Kiểu hiển thị menu</"
+#~ "span> để chọn kiểu menu mà bạn muốn."
+#~ msgstr ""
+#~ "This theme has 2 menu positions above and below, when you create the menu "
+#~ "name the above menu as <span style=\"font-weight:bold;color:"
+#~ "#ff4444\">Menu 1</span>, and the menu below, name the menu <span "
+#~ "style=\"font-weight:bold;color:#ff4444\">Menu 2</span>. And choose the "
+#~ "corresponding location to display.<br><br>\n"
+#~ "    To display the menu style, go to <span style=\"font-weight:bold;color:"
+#~ "#ff4444\">Foxtheme > Display settings > Menu display style</span> to "
+#~ "select the menu style you want."
+
+#~ msgid "Hướng dẫn thêm chức năng cho website"
+#~ msgstr "Instructions for adding functions to the website"
+
+#~ msgid ""
+#~ "Các chức năng hiển thị của Fox theme được tối ưu bởi widget, cho nên nếu "
+#~ "bạn muốn thêm các chức năng cho trang của mình chỉ cần vào <span "
+#~ "style=\"font-weight:bold;color:#ff4444\">Giao diện > Widget</span> để "
+#~ "thêm vào là xong.<br><br>\n"
+#~ "    \t\t    <b>Có 4 vị trí widget của theme mà bạn cần biết như sau:</"
+#~ "b><br>\n"
+#~ "    \t\t    - Giữa trang (là vị trí hiển thị widget ở giữa trang).<br>\n"
+#~ "    \t\t    - Thanh bên (là vị trí hiển thị widget ở thanh bên phải màn "
+#~ "hình).<br>\n"
+#~ "    \t\t    - Thời tiết (là vị trí hiển thị widget ở thanh bên phải màn "
+#~ "hình, và nó sẽ không hiển thị trong trang bài viết).<br>\n"
+#~ "    \t\t    - Chân trang (là vị trí hiển thị ở chân trang).<br>\n"
+#~ "    \t\t    Các widget mặc định của theme sẽ có tên bắt đầu bằng chữ "
+#~ "<span style=\"font-weight:bold;color:#ff4444\">Fox</span>."
+#~ msgstr ""
+#~ "Fox theme's display functions are optimized by widgets, so if you want to "
+#~ "add functionality to your page just go to <span style=\"font-weight:bold;"
+#~ "color:#ff4444\">Appearance > Widget</span> to add and done.<br><br>\n"
+#~ "    <b>There are 4 widget positions of the theme that you need to know as "
+#~ "follows:</b><br>\n"
+#~ "    - The middle of the page (is the position where the widget is "
+#~ "displayed in the middle of the page).<br>\n"
+#~ "    - Sidebar (is the widget display position on the right sidebar of the "
+#~ "screen).<br>\n"
+#~ "    - Weather (this is the widget display position in the right sidebar "
+#~ "of the screen, and it will not show in the article page).<br>\n"
+#~ "    - Footer (is the position displayed in the footer).<br>\n"
+#~ "    The default theme widgets will have names starting with <span "
+#~ "style=\"font-weight:bold;color:#ff4444\">Fox</span>."
+
+#~ msgid "Bảo mật trang"
+#~ msgstr "Site security"
+
+#~ msgid "Bảo mật website"
+#~ msgstr "Website security"
+
+#~ msgid ""
+#~ "Tính năng này sẽ ngăn chặn việc tải lên các file không phải là hình ảnh, "
+#~ "nếu bạn cài plugin bên ngoài vui lòng tắt nó đi trước khi cài."
+#~ msgstr ""
+#~ "This feature will prevent the upload of files other than images, if you "
+#~ "install an external plugin please disable it before installing."
+
+#~ msgid "Bật tải trang dạng chọn số"
+#~ msgstr "Enable numeric page loading"
+
+#~ msgid "Tích chọn để thay nút tải thêm thành chọn số trang ở màn hình chính."
+#~ msgstr ""
+#~ "Check the box to change the download button to select the number of pages "
+#~ "on the main screen."
+
+#~ msgid "Bật biểu tượng tìm kiểm ở thanh bar"
+#~ msgstr "Enable the search icon in the bar"
+
+#~ msgid "Tích chọn vào đây để bật chức năng icon tìm kiếm ở thanh bar."
+#~ msgstr "Integrate here to enable the search function icon in the bar bar."
+
+#~ msgid "Phiên bản"
+#~ msgstr "Version"
+
+#~ msgid "Đăng nhập tài khoản"
+#~ msgstr "Log in to your account"
+
+#~ msgid "Bạn đang làm gì vậy ?"
+#~ msgstr "What are you doing?"
+
+#~ msgid "Tham gia"
+#~ msgstr "Join date"
+
+#~ msgid "ĐĂNG XUẤT TÀI KHOẢN"
+#~ msgstr "SIGN OUT OF YOUR ACCOUNT"
+
+#~ msgid "Bạn đang sử dụng tài khoản tác giả"
+#~ msgstr "You are using an author account"
+
+#~ msgid "Hiện tại tác giả vẫn chưa cập nhật chia sẻ của mình"
+#~ msgstr "Currently the author has not updated his share"
+
+#~ msgid "404 Bản quyền kỹ thuật số!"
+#~ msgstr "404 Digital Copyright!"
+
+#~ msgid ""
+#~ "Rất tiếc phải xin lỗi bạn, nhưng có vẽ như chúng tối vẫn chưa nhận được "
+#~ "KEY bản quyền, vui lòng liên hệ <a href=\"https://caodem.com\">FOX</a> để "
+#~ "được tư vấn."
+#~ msgstr ""
+#~ "Sorry to apologize, but it seems we have not received the copyright KEY, "
+#~ "please contact <a href=\"https://caodem.com\">FOX</a> for advice."
+
+#~ msgid "Gửi bình luận"
+#~ msgstr "Post a comment"
+
+#~ msgid "<p class=\"dang-nhaptb\">Bạn đã đăng xuất tài khoản!</p>"
+#~ msgstr "<p class=\"dang-nhaptb\">You are logged out of your account!</p>"
+
+#~ msgid "<i class=\"fa-solid fa-arrow-turn-down-right\"></i> Trả lời"
+#~ msgstr "<i class=\"fa-solid fa-arrow-turn-down-right\"></i> Answer"
